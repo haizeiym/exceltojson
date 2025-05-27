@@ -1,0 +1,152 @@
+[
+    {
+        "cannon_id": 0,
+        "cannon_rtp": 0,
+        "frozen_rate": 0,
+        "frozen_time": 0,
+        "fire_time": 0,
+        "hit_time": 0,
+        "energy_rate": 0,
+        "award_multiple": [],
+        "bullet_count": 0
+    },
+    {
+        "cannon_id": 1,
+        "cannon_rtp": 500,
+        "frozen_rate": 0,
+        "frozen_time": 0,
+        "fire_time": 0,
+        "hit_time": 0,
+        "energy_rate": 0,
+        "award_multiple": [
+            {
+                "0": 496450
+            },
+            {
+                "9": 1000
+            },
+            {
+                "19": 300
+            },
+            {
+                "29": 100
+            },
+            {
+                "39": 50
+            },
+            {
+                "49": 40
+            },
+            {
+                "59": 16
+            },
+            {
+                "69": 10
+            },
+            {
+                "79": 10
+            },
+            {
+                "89": 10
+            },
+            {
+                "99": 1
+            }
+        ],
+        "bullet_count": 0
+    },
+    {
+        "cannon_id": 2,
+        "cannon_rtp": 500,
+        "frozen_rate": 0,
+        "frozen_time": 0,
+        "fire_time": 0,
+        "hit_time": 0,
+        "energy_rate": 5,
+        "award_multiple": [
+            {
+                "105": 1000
+            },
+            {
+                "123": 1000
+            },
+            {
+                "155": 1000
+            },
+            {
+                "187": 1000
+            },
+            {
+                "202": 1000
+            },
+            {
+                "223": 1000
+            },
+            {
+                "256": 1000
+            },
+            {
+                "268": 1000
+            },
+            {
+                "281": 1000
+            }
+        ],
+        "bullet_count": 4000
+    },
+    {
+        "cannon_id": 3,
+        "cannon_rtp": 0,
+        "frozen_rate": 0,
+        "frozen_time": 0,
+        "fire_time": 0,
+        "hit_time": 0,
+        "energy_rate": 0,
+        "award_multiple": [],
+        "bullet_count": 0
+    },
+    {
+        "cannon_id": 4,
+        "cannon_rtp": 0,
+        "frozen_rate": 0,
+        "frozen_time": 0,
+        "fire_time": 0,
+        "hit_time": 0,
+        "energy_rate": 0,
+        "award_multiple": [],
+        "bullet_count": 0
+    },
+    {
+        "cannon_id": 5,
+        "cannon_rtp": 0,
+        "frozen_rate": 10,
+        "frozen_time": 2,
+        "fire_time": 0,
+        "hit_time": 0,
+        "energy_rate": 0,
+        "award_multiple": [],
+        "bullet_count": 0
+    },
+    {
+        "cannon_id": 6,
+        "cannon_rtp": 0,
+        "frozen_rate": 0,
+        "frozen_time": 0,
+        "fire_time": 0,
+        "hit_time": 0,
+        "energy_rate": 0,
+        "award_multiple": [],
+        "bullet_count": 0
+    },
+    {
+        "cannon_id": 7,
+        "cannon_rtp": 0,
+        "frozen_rate": 0,
+        "frozen_time": 0,
+        "fire_time": 15,
+        "hit_time": 15,
+        "energy_rate": 0,
+        "award_multiple": [],
+        "bullet_count": 0
+    }
+]

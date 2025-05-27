@@ -1,0 +1,299 @@
+[
+    {
+        "variable": "bgm_choose",
+        "musical_effect": "bgm_choose",
+        "volume": 100
+    },
+    {
+        "variable": "bg_sound1",
+        "musical_effect": "bg_sound1",
+        "volume": 95
+    },
+    {
+        "variable": "bg_sound2",
+        "musical_effect": "bg_sound2",
+        "volume": 95
+    },
+    {
+        "variable": "bg_sound3",
+        "musical_effect": "bg_sound3",
+        "volume": 95
+    },
+    {
+        "variable": "bg_sound4",
+        "musical_effect": "bg_sound4",
+        "volume": 95
+    },
+    {
+        "variable": "bg_boss1",
+        "musical_effect": "bg_boss1",
+        "volume": 100
+    },
+    {
+        "variable": "btn_open",
+        "musical_effect": "btn_open",
+        "volume": 100
+    },
+    {
+        "variable": "btn_close",
+        "musical_effect": "btn_close",
+        "volume": 100
+    },
+    {
+        "variable": "coin_fry",
+        "musical_effect": "coin_fry",
+        "volume": 90
+    },
+    {
+        "variable": "coin_fry_big",
+        "musical_effect": "coin_fry_big",
+        "volume": 100
+    },
+    {
+        "variable": "coin_fry_mid",
+        "musical_effect": "coin_fry_mid",
+        "volume": 95
+    },
+    {
+        "variable": "coin_back",
+        "musical_effect": "coin_back",
+        "volume": 100
+    },
+    {
+        "variable": "cannon_0",
+        "musical_effect": "Fire",
+        "volume": 75
+    },
+    {
+        "variable": "fish_clear",
+        "musical_effect": "fish_clear",
+        "volume": 100
+    },
+    {
+        "variable": "shoot_decrease",
+        "musical_effect": "shoot_decrease",
+        "volume": 100
+    },
+    {
+        "variable": "shoot_increase",
+        "musical_effect": "shoot_increase",
+        "volume": 100
+    },
+    {
+        "variable": "warning_sound",
+        "musical_effect": "warning_sound",
+        "volume": 100
+    },
+    {
+        "variable": "hall_click",
+        "musical_effect": "hall_click",
+        "volume": 100
+    },
+    {
+        "variable": "lowfish_1",
+        "musical_effect": "lowfish_1",
+        "volume": 85
+    },
+    {
+        "variable": "lowfish_2",
+        "musical_effect": "lowfish_2",
+        "volume": 85
+    },
+    {
+        "variable": "lowfish_3",
+        "musical_effect": "lowfish_3",
+        "volume": 85
+    },
+    {
+        "variable": "lowfish_4",
+        "musical_effect": "lowfish_4",
+        "volume": 85
+    },
+    {
+        "variable": "Mediumfish1",
+        "musical_effect": "Mediumfish1",
+        "English_sound": "Mediumfish1_en",
+        "volume": 85
+    },
+    {
+        "variable": "Mediumfish2",
+        "musical_effect": "Mediumfish2",
+        "English_sound": "Mediumfish2_en",
+        "volume": 85
+    },
+    {
+        "variable": "Mediumfish3",
+        "musical_effect": "Mediumfish3",
+        "English_sound": "Mediumfish3_en",
+        "volume": 85
+    },
+    {
+        "variable": "Mediumfish4",
+        "musical_effect": "Mediumfish4",
+        "English_sound": "Mediumfish4_en",
+        "volume": 85
+    },
+    {
+        "variable": "Bigfish1",
+        "musical_effect": "Bigfish1",
+        "English_sound": "Bigfish1_en",
+        "volume": 85
+    },
+    {
+        "variable": "Bigfish2",
+        "musical_effect": "Bigfish2",
+        "English_sound": "Bigfish2_en",
+        "volume": 85
+    },
+    {
+        "variable": "Bigfish3",
+        "musical_effect": "Bigfish3",
+        "English_sound": "Bigfish3_en",
+        "volume": 85
+    },
+    {
+        "variable": "xiaoyouxi_tanchu",
+        "musical_effect": "xiaoyouxi_tanchu",
+        "volume": 100
+    },
+    {
+        "variable": "baozangxie_Roulette",
+        "musical_effect": "baozangxie_Roulette",
+        "volume": 100
+    },
+    {
+        "variable": "baozangxie_Roulette_sotp",
+        "musical_effect": "baozangxie_Roulette_sotp",
+        "volume": 100
+    },
+    {
+        "variable": "bangzangxie_zhuanpan",
+        "musical_effect": "bangzangxie_zhuanpan",
+        "volume": 100
+    },
+    {
+        "variable": "bg_boss2",
+        "musical_effect": "bg_boss2",
+        "volume": 100
+    },
+    {
+        "variable": "cannon_1",
+        "musical_effect": "cannon_1caishen",
+        "volume": 75
+    },
+    {
+        "variable": "cannon_2",
+        "musical_effect": "cannon_2liehuo",
+        "volume": 75
+    },
+    {
+        "variable": "cannon_3",
+        "musical_effect": "cannon_3zhanshen",
+        "volume": 75
+    },
+    {
+        "variable": "cannon_4",
+        "musical_effect": "cannon_4jiguang",
+        "volume": 75
+    },
+    {
+        "variable": "cannon_5",
+        "musical_effect": "cannon_5bingfeng",
+        "volume": 75
+    },
+    {
+        "variable": "cannon_6",
+        "musical_effect": "cannon_6huoyan",
+        "volume": 75
+    },
+    {
+        "variable": "Bomb",
+        "musical_effect": "Bomb",
+        "volume": 100
+    },
+    {
+        "variable": "changecannon",
+        "musical_effect": "changecannon",
+        "volume": 100
+    },
+    {
+        "variable": "coin_jinseyu_mid",
+        "musical_effect": "coin_jinseyu_mid",
+        "volume": 100
+    },
+    {
+        "variable": "coin_putongyumid",
+        "musical_effect": "coin_putongyumid",
+        "volume": 100
+    },
+    {
+        "variable": "coin_xiaoyuqun_mid",
+        "musical_effect": "coin_xiaoyuqun_mid",
+        "volume": 100
+    },
+    {
+        "variable": "Draw",
+        "musical_effect": "Draw",
+        "volume": 100
+    },
+    {
+        "variable": "Draw_fanpai",
+        "musical_effect": "Draw_fanpai",
+        "volume": 100
+    },
+    {
+        "variable": "teshuyu_reward",
+        "musical_effect": "teshuyu_reward",
+        "volume": 100
+    },
+    {
+        "variable": "caishenpao_reward",
+        "musical_effect": "caishenpao_reward",
+        "volume": 100
+    },
+    {
+        "variable": "midfish_dy",
+        "musical_effect": "midfish_dy",
+        "volume": 100
+    },
+    {
+        "variable": "bigfish_dy",
+        "musical_effect": "bigfish_dy",
+        "volume": 100
+    },
+    {
+        "variable": "longzhu_choujiang",
+        "musical_effect": "longzhu_choujiang",
+        "volume": 100
+    },
+    {
+        "variable": "shandianyu",
+        "musical_effect": "shandianyu",
+        "volume": 100
+    },
+    {
+        "variable": "bomb_fenghuang",
+        "musical_effect": "bomb_fenghuang",
+        "volume": 100
+    },
+    {
+        "variable": "huofenghuang_Max",
+        "musical_effect": "huofenghuang_Max",
+        "volume": 100
+    },
+    {
+        "variable": "huojianfantan",
+        "musical_effect": "huojianfantan",
+        "volume": 100
+    },
+    {
+        "variable": "cannon_7",
+        "musical_effect": "cannon_7",
+        "volume": 100
+    },
+    {
+        "variable": "caishen_dy",
+        "musical_effect": "caishen_dy",
+        "volume": 100
+    }
+]

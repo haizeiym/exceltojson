@@ -1,0 +1,1370 @@
+[
+    {
+        "variable_name": "gamename",
+        "Zh": "乐享捕鱼",
+        "En": "Enjoy Fishing",
+        "Vn": "Thưởng thức trò chơi câu cá"
+    },
+    {
+        "variable_name": "tips1",
+        "Zh": "倍场",
+        "En": "Fields",
+        "Vn": "Nhân đôi trận chơi"
+    },
+    {
+        "variable_name": "tips2",
+        "Zh": "公告",
+        "En": "Announcement",
+        "Vn": "Thông báo"
+    },
+    {
+        "variable_name": "tips3",
+        "Zh": "注单",
+        "En": "Betting List",
+        "Vn": "đơn đặt cược"
+    },
+    {
+        "variable_name": "tips4",
+        "Zh": "排行",
+        "En": "Ranking",
+        "Vn": "xếp hạng"
+    },
+    {
+        "variable_name": "tips5",
+        "Zh": "活动",
+        "En": "Events",
+        "Vn": "Hoạt động"
+    },
+    {
+        "variable_name": "tips6",
+        "Zh": "炮台",
+        "En": "Cannon",
+        "Vn": "pháo đài"
+    },
+    {
+        "variable_name": "tips7",
+        "Zh": "充值",
+        "En": "Recharge",
+        "Vn": "Nạp tiền"
+    },
+    {
+        "variable_name": "tips8",
+        "Zh": "快速开始",
+        "En": "Quick Start",
+        "Vn": "bắt đầu nhanh"
+    },
+    {
+        "variable_name": "tips9",
+        "Zh": "反馈",
+        "En": "Feedback",
+        "Vn": "nhận xét"
+    },
+    {
+        "variable_name": "tips10",
+        "Zh": "鱼鉴",
+        "En": "Fishfinder",
+        "Vn": "hướng dẫn cá"
+    },
+    {
+        "variable_name": "tips11",
+        "Zh": "设置",
+        "En": "Settings",
+        "Vn": "cài đặt"
+    },
+    {
+        "variable_name": "tips12",
+        "Zh": "特殊鱼",
+        "En": "Special Fish",
+        "Vn": "cá đặc biệt"
+    },
+    {
+        "variable_name": "tips13",
+        "Zh": "黄金鱼",
+        "En": "Gold Fish",
+        "Vn": "cá vàng kim"
+    },
+    {
+        "variable_name": "tips14",
+        "Zh": "普通鱼",
+        "En": "Common Fish",
+        "Vn": "con cá nhỏ"
+    },
+    {
+        "variable_name": "tips15",
+        "Zh": "时间",
+        "En": "Time",
+        "Vn": "thời gian"
+    },
+    {
+        "variable_name": "tips16",
+        "Zh": "场次",
+        "En": "Field",
+        "Vn": "Số buổi"
+    },
+    {
+        "variable_name": "tips17",
+        "Zh": "子弹总额",
+        "En": "Total Bullets",
+        "Vn": "Tổng số đạn"
+    },
+    {
+        "variable_name": "tips18",
+        "Zh": "派彩",
+        "En": "Pai Lotto",
+        "Vn": "thắng"
+    },
+    {
+        "variable_name": "tips10101",
+        "Zh": "初级渔场",
+        "En": "Primary",
+        "Vn": "sơ cấp"
+    },
+    {
+        "variable_name": "tips10102",
+        "Zh": "至尊渔场",
+        "En": "Advanced",
+        "Vn": "tối cao"
+    },
+    {
+        "variable_name": "tips22",
+        "Zh": "注单详细",
+        "En": "Betting Slip Details",
+        "Vn": "Chi tiết cá cược"
+    },
+    {
+        "variable_name": "tips23",
+        "Zh": "牌局编号：",
+        "En": "Card game number:",
+        "Vn": "Số ván bài"
+    },
+    {
+        "variable_name": "tips24",
+        "Zh": "复制",
+        "En": "Copy",
+        "Vn": "sao chép"
+    },
+    {
+        "variable_name": "tips25",
+        "Zh": "注单编号：",
+        "En": "Note Sheet Number:",
+        "Vn": "Số đơn đặt cược"
+    },
+    {
+        "variable_name": "tips26",
+        "Zh": "派彩鱼类：",
+        "En": "Paired Fish:",
+        "Vn": "Cá thanh toán"
+    },
+    {
+        "variable_name": "tips27",
+        "Zh": "命中目标",
+        "En": "Hit Target",
+        "Vn": "Đạt được mục tiêu"
+    },
+    {
+        "variable_name": "tips28",
+        "Zh": "倍数",
+        "En": "Multiplier",
+        "Vn": "Nhân đôi"
+    },
+    {
+        "variable_name": "tips29",
+        "Zh": "炮弹金额",
+        "En": "Shell Amount",
+        "Vn": "Số lượng pháo đạn"
+    },
+    {
+        "variable_name": "tips30",
+        "Zh": "数量",
+        "En": "Quantity",
+        "Vn": "Số lượng"
+    },
+    {
+        "variable_name": "tips31",
+        "Zh": "派彩金额",
+        "En": "Payout Amount",
+        "Vn": "Số tiền thắng"
+    },
+    {
+        "variable_name": "tips32",
+        "Zh": "总派彩",
+        "En": "Total Payout",
+        "Vn": "Tổng số tiền thắng"
+    },
+    {
+        "variable_name": "tips33",
+        "Zh": "威力",
+        "En": "Power",
+        "Vn": "quyền lực"
+    },
+    {
+        "variable_name": "tips34",
+        "Zh": "鱼类锁定",
+        "En": "Lock-On",
+        "Vn": "khóa các loại cá"
+    },
+    {
+        "variable_name": "tips35",
+        "Zh": "自动攻击",
+        "En": "Auto Attacking",
+        "Vn": "tấn công tự động"
+    },
+    {
+        "variable_name": "tips36",
+        "Zh": "等待加入",
+        "En": "Waiting",
+        "Vn": "Đang chờ tham gia"
+    },
+    {
+        "variable_name": "tips37",
+        "Zh": "炮台选择",
+        "En": "Turret Selection",
+        "Vn": "Lựa chọn tháp pháo"
+    },
+    {
+        "variable_name": "tips38",
+        "Zh": "使用中",
+        "En": "In use",
+        "Vn": "đang sử dụng"
+    },
+    {
+        "variable_name": "tips39",
+        "Zh": "已装备",
+        "En": "Equipped",
+        "Vn": "Đã trang bị"
+    },
+    {
+        "variable_name": "tips40",
+        "Zh": "说明",
+        "En": "Description",
+        "Vn": "Mô tả"
+    },
+    {
+        "variable_name": "tips41",
+        "Zh": "技能",
+        "En": "Skills",
+        "Vn": "Kỹ năng"
+    },
+    {
+        "variable_name": "tips42",
+        "Zh": "换桌",
+        "En": "Change",
+        "Vn": "Thay đổi bàng"
+    },
+    {
+        "variable_name": "tips43",
+        "Zh": "离开",
+        "En": "Exit",
+        "Vn": "rời khỏi"
+    },
+    {
+        "variable_name": "tips44",
+        "Zh": "客服",
+        "En": "Customer Service",
+        "Vn": "dịch vụ khách hàng"
+    },
+    {
+        "variable_name": "tips45",
+        "Zh": "鱼潮来袭",
+        "En": "Fish Tide",
+        "Vn": "Thủy triều đang đến"
+    },
+    {
+        "variable_name": "tips46",
+        "Zh": "天崩地裂",
+        "En": "The sky is falling and the earth is cracking",
+        "Vn": "long trời lở đất"
+    },
+    {
+        "variable_name": "tips47",
+        "Zh": "毁天灭地，寸草不生！",
+        "En": "Destroy the sky and the earth, and no grass will grow!",
+        "Vn": "Diệt trời đất,  không trừa một cọng cỏ!"
+    },
+    {
+        "variable_name": "tips48",
+        "Zh": "请充值",
+        "En": "Please recharge",
+        "Vn": "Vui lòng nạp tiền"
+    },
+    {
+        "variable_name": "tips49",
+        "Zh": "您长时间没有开炮，15秒后将退出房间！",
+        "En": "You have not fired for a long time, you will exit the room after 15 seconds!",
+        "Vn": "Nếu đã lâu không bắn, bạn sẽ ra khỏi phòng sau 15 giây!"
+    },
+    {
+        "variable_name": "tips50",
+        "Zh": "您的金币已不足，请及时充值！",
+        "En": "Your gold coins are insufficient, please top up in time!",
+        "Vn": "Tiền vàng của bạn không đủ, vui lòng nạp tiền kịp thời!"
+    },
+    {
+        "variable_name": "tips51",
+        "Zh": "知道了",
+        "En": "Got it",
+        "Vn": "biết rồi"
+    },
+    {
+        "variable_name": "tips52",
+        "Zh": "提示",
+        "En": "Tip",
+        "Vn": "gợi ý"
+    },
+    {
+        "variable_name": "tips53",
+        "Zh": "链接已失效，请重新登录！",
+        "En": "The link is no longer valid, please log in again!",
+        "Vn": "Link đã hết hạn, vui lòng đăng nhập lại!"
+    },
+    {
+        "variable_name": "tips54",
+        "Zh": "断线",
+        "En": "Disconnected",
+        "Vn": "Đã ngắt kết nối"
+    },
+    {
+        "variable_name": "tips55",
+        "Zh": "点击屏幕开炮",
+        "En": "Tap the screen to fire",
+        "Vn": "Bấm vào màn hình để bắn"
+    },
+    {
+        "variable_name": "tips56",
+        "Zh": "长按连续开炮",
+        "En": "Press and hold to fire the cannon continuously",
+        "Vn": "Nhấn và giữ để bắn liên tục"
+    },
+    {
+        "variable_name": "tips57",
+        "Zh": "增加炮台威力",
+        "En": "Increase the power of the turret",
+        "Vn": "Tăng sức mạnh của tháp pháo"
+    },
+    {
+        "variable_name": "tips58",
+        "Zh": "减小炮台威力",
+        "En": "Decrease the power of the turret.",
+        "Vn": "Giảm sức mạnh của tháp pháo"
+    },
+    {
+        "variable_name": "tips59",
+        "Zh": "点击炮台  可切换其他功能炮台",
+        "En": "Tap on the turret to switch to other function turrets.",
+        "Vn": "Bấm vào tháp pháo để chuyển sang các tháp pháo chức năng khác"
+    },
+    {
+        "variable_name": "tips60",
+        "Zh": "威力X2     提高一倍攻击威力",
+        "En": "Power X2 Double the attack speed",
+        "Vn": "Sức mạnh X2: Tốc độ tấn công gấp đôi"
+    },
+    {
+        "variable_name": "tips61",
+        "Zh": "鱼类锁定   锁定自动攻击一种鱼",
+        "En": "Fish Lock Lock to automatically attack a fish",
+        "Vn": "Khóa cá và khóa tự động tấn công một loại cá"
+    },
+    {
+        "variable_name": "tips62",
+        "Zh": "自动攻击   自动朝一个方向攻击",
+        "En": "Auto Attack Automatically attack in one direction.",
+        "Vn": "Tự động tấn công Tự động tấn công theo một hướng"
+    },
+    {
+        "variable_name": "tips63",
+        "Zh": "击杀金色系鱼  可获得积分抽奖",
+        "En": "Killing gold-coloured fish will earn you points in the lottery.",
+        "Vn": "Giết cá vàng để nhận điểm xổ số"
+    },
+    {
+        "variable_name": "tips64",
+        "Zh": "功能菜单 内含鱼鉴、切换炮台、注单、换桌等功能",
+        "En": "Function menu Includes Fish Guide, switching turrets, betting slips, table change, etc.",
+        "Vn": "Menu chức năng bao gồm các chức năng như nhận dạng cá, chuyển pháo đài, đặt cược, đổi bàn, v.v."
+    },
+    {
+        "variable_name": "tips65",
+        "Zh": "BOSS入场倒计时",
+        "En": "Boss entry countdown",
+        "Vn": "Đếm ngược lối vào BOSS "
+    },
+    {
+        "variable_name": "tips66",
+        "Zh": "累积气满可召唤赤炎神鸟进行全屏轰炸！",
+        "En": "You can summon the Red Inferno Bird for a full-screen bombardment when you've accumulated a full tank of gas!",
+        "Vn": "Khi năng lượng tích lũy đầy, bạn có thể triệu hồi Chim thần lửa đỏ để ném bom toàn màn hình!"
+    },
+    {
+        "variable_name": "tips67",
+        "Zh": "很遗憾，您的积分不足，请继续攻击黄金系列鱼获得足够积分后再来抽奖！",
+        "En": "Unfortunately, you don't have enough points, please continue to attack the gold series fish to get enough points and then come back to the lottery!",
+        "Vn": "Rất tiếc, bạn chưa đủ điểm. Hãy tiếp tục tấn công dòng cá vàng để có đủ điểm trước khi quay lại!"
+    },
+    {
+        "variable_name": "tips68",
+        "Zh": "您的操作过于频繁，请稍后再试！",
+        "En": "Your operations are too frequent, please try again later!",
+        "Vn": "Hoạt động của bạn quá thường xuyên, vui lòng thử lại sau!"
+    },
+    {
+        "variable_name": "net_1",
+        "Zh": "您的网络异常，请重新登录！",
+        "En": "Your network is abnormal, please log in again!",
+        "Vn": "Mạng của bạn không bình thường, vui lòng đăng nhập lại!"
+    },
+    {
+        "variable_name": "net_2",
+        "Zh": "您的网络正在连接中，请稍后……",
+        "En": "Your network is connecting, please try again later. ......",
+        "Vn": "Mạng của bạn đang kết nối, vui lòng đợi..."
+    },
+    {
+        "variable_name": "net_3",
+        "Zh": "您的网络不佳，稍后自动重连……",
+        "En": "Your network is not good, please reconnect later ......",
+        "Vn": "Mạng của bạn không tốt, nó sẽ tự động kết nối lại sau..."
+    },
+    {
+        "variable_name": "net_4",
+        "Zh": "您的网络重连异常，请重新登录！",
+        "En": "Your network reconnection is abnormal, please log in again!",
+        "Vn": "Kết nối lại mạng của bạn không bình thường, vui lòng đăng nhập lại!"
+    },
+    {
+        "variable_name": "net_5",
+        "Zh": "您长时间未操作，为确保账号安全，已退出房间！",
+        "En": "You have not operated for a long time and have logged out of the room to ensure account security!",
+        "Vn": "Bạn đã lâu không hoạt động. Để đảm bảo an toàn cho tài khoản của bạn, hãy thoát khỏi phòng!"
+    },
+    {
+        "variable_name": "logon_1",
+        "Zh": "抱歉，当前游戏正在进行维护，请稍后再尝试进入游戏",
+        "En": "Sorry, the game is currently undergoing maintenance, please try again later to enter the game!",
+        "Vn": "Rất tiếc, trò chơi hiện đang được bảo trì, vui lòng thử vào lại trò chơi sau."
+    },
+    {
+        "variable_name": "logon_2",
+        "Zh": "抱歉，此房间已经人满，请选择其他游戏房间游戏",
+        "En": "Sorry, this room is full, please choose another room to play!",
+        "Vn": "Rất tiếc, phòng này đã đầy rồi, vui lòng chọn phòng game khác nhé"
+    },
+    {
+        "variable_name": "logon_3",
+        "Zh": "抱歉，您的金币低于当前游戏房间的最低限制，不能进入当前游戏房间",
+        "En": "Sorry, your gold is lower than the minimum limit of the current game room, you can't enter the current game room.",
+        "Vn": "Rất tiếc, số tiền vàng của bạn thấp hơn giới hạn tối thiểu của phòng trò chơi hiện tại và bạn không thể vào phòng trò chơi hiện tại."
+    },
+    {
+        "variable_name": "logon_4",
+        "Zh": "抱歉，您的金币高于当前游戏房间的最高限制，不能进入当前游戏房间",
+        "En": "Sorry, your gold is higher than the maximum limit of the current game room, you can't enter the current game room.",
+        "Vn": "Rất tiếc, số tiền vàng của bạn cao hơn giới hạn tối đa của phòng trò chơi hiện tại và bạn không thể vào phòng trò chơi hiện tại."
+    },
+    {
+        "variable_name": "logon_5",
+        "Zh": "抱歉，您的登录密码错误，不允许继续进入",
+        "En": "Sorry, your login password is wrong, you are not allowed to continue to enter.",
+        "Vn": "Rất tiếc, mật khẩu đăng nhập của bạn sai và bạn không được phép tiếp tục nhập."
+    },
+    {
+        "variable_name": "logon_6",
+        "Zh": "抱歉地通知您，系统禁止了您所在的 IP 地址的游戏登录权限，请联系客户服务中心了解详细情况！",
+        "En": "We are sorry to inform you that your IP address has been banned from logging in to the game, please contact our customer service centre for more information!",
+        "Vn": "Chúng tôi rất tiếc phải thông báo với bạn rằng hệ thống đã cấm quyền đăng nhập trò chơi đối với địa chỉ IP của bạn. Vui lòng liên hệ với trung tâm dịch vụ khách hàng để biết chi tiết!"
+    },
+    {
+        "variable_name": "logon_7",
+        "Zh": "抱歉地通知您，系统禁止了您的机器的游戏登录权限，请联系客户服务中心了解详细情况！",
+        "En": "We are sorry to inform you that your IP address has been blocked from accessing the game, please contact our Customer Service Centre for further details!",
+        "Vn": "Chúng tôi rất tiếc phải thông báo với bạn rằng hệ thống đã cấm quyền đăng nhập trò chơi trên máy của bạn. Vui lòng liên hệ với trung tâm dịch vụ khách hàng để biết chi tiết!"
+    },
+    {
+        "variable_name": "logon_8",
+        "Zh": "您的帐号不存在或者密码输入有误，请查证后再次尝试登录！",
+        "En": "Your account does not exist or you have entered your password incorrectly, please check and try to log in again!",
+        "Vn": "Tài khoản của bạn không tồn tại hoặc mật khẩu bạn nhập không chính xác. Vui lòng xác minh và thử đăng nhập lại!"
+    },
+    {
+        "variable_name": "logon_9",
+        "Zh": "您的帐号暂时处于冻结状态，请联系客户服务中心了解详细情况！",
+        "En": "Your account is temporarily frozen, please contact our Customer Service Centre for details!",
+        "Vn": "Tài khoản của bạn tạm thời bị đóng băng, vui lòng liên hệ trung tâm dịch vụ khách hàng để biết chi tiết!"
+    },
+    {
+        "variable_name": "logon_10",
+        "Zh": "抱歉,由于您的帐号在其它地方登录,请重新登录平台后再次尝试！",
+        "En": "Sorry to inform you that your account has been logged in elsewhere, please log in to the platform again and try again!",
+        "Vn": "Rất tiếc, vì tài khoản của bạn đã được đăng nhập ở nơi khác, vui lòng đăng nhập lại vào nền tảng và thử lại!"
+    },
+    {
+        "variable_name": "logon_11",
+        "Zh": "抱歉地通知你，您的游戏币数据出现了异常情况，请联系客户服务中心了解详细情况！",
+        "En": "Sorry to inform you that there is an exception in your game coin data, please contact the customer service centre for details!",
+        "Vn": "Chúng tôi rất tiếc phải thông báo với bạn rằng có sự bất thường trong dữ liệu tiền tệ  trong trò chơi của bạn. Vui lòng liên hệ với trung tâm dịch vụ khách hàng để biết chi tiết!"
+    },
+    {
+        "variable_name": "logon_12",
+        "Zh": "您正在其他游戏房间中，不能同时再进入此游戏房间！",
+        "En": "You are in another game room and cannot enter this game room at the same time!",
+        "Vn": "Bạn đang ở trong phòng trò chơi khác và không thể vào phòng trò chơi này cùng lúc!"
+    },
+    {
+        "variable_name": "logon_13",
+        "Zh": "您正在进行保险柜处理过程中，暂时无法进入此游戏房间！",
+        "En": "You are in the middle of a safe process and cannot access this game room at the same time!",
+        "Vn": "Bạn đang trong quá trình xử lý két sắt và tạm thời không thể vào phòng game này!"
+    },
+    {
+        "variable_name": "logon_14",
+        "Zh": "抱歉地通知你，游戏币锁定操作失败，请联系客户服务中心了解详细情况！",
+        "En": "Sorry to inform you that the game coin lock operation failed, please contact the customer service centre for details!",
+        "Vn": "Chúng tôi rất tiếc phải thông báo với bạn rằng thao tác khóa tiền tệ trong trò chơi không thành công. Vui lòng liên hệ với trung tâm dịch vụ khách hàng để biết chi tiết!"
+    },
+    {
+        "variable_name": "logon_15",
+        "Zh": "数据库异常，登录失败！",
+        "En": "Database anomaly, login failed!",
+        "Vn": "Ngoại lệ cơ sở dữ liệu, đăng nhập không thành công!"
+    },
+    {
+        "variable_name": "system1",
+        "Zh": "该账号已在此房间游戏，且不允许踢出，请咨询管理员！",
+        "En": "This account is already playing in this room and is not allowed to be kicked out, please consult an administrator!",
+        "Vn": "Tài khoản này đã được chơi trong phòng này và không được phép bị đuổi ra ngoài. Vui lòng tham khảo ý kiến ​​của quản trị viên!"
+    },
+    {
+        "variable_name": "system2",
+        "Zh": "您的帐号在另一地方进入游戏，您被迫离开！",
+        "En": "Your account entered the game at another location and you were forced to leave!",
+        "Vn": "Tài khoản của bạn đã vào trò chơi ở một nơi khác và bạn buộc phải rời đi!"
+    },
+    {
+        "variable_name": "system3",
+        "Zh": "您的帐号在另一地方进入游戏，对方被迫离开！",
+        "En": "Your account entered the game at another location and the other party was forced to leave!",
+        "Vn": "Tài khoản của bạn đã vào trò chơi ở một nơi khác và bên kia buộc phải rời đi!"
+    },
+    {
+        "variable_name": "system4",
+        "Zh": "当前游戏正在维护中，不能继续游戏！",
+        "En": "The game is currently under maintenance and cannot be continued!",
+        "Vn": "Trò chơi hiện đang được bảo trì và trò chơi không thể tiếp tục!"
+    },
+    {
+        "variable_name": "fish1",
+        "Zh": "赤背鱼",
+        "En": "Redback Fish",
+        "Vn": "cá lưng đỏ"
+    },
+    {
+        "variable_name": "fish2",
+        "Zh": "小黄鱼",
+        "En": "Small Yellowtail",
+        "Vn": "cá đù nhỏ màu vàng"
+    },
+    {
+        "variable_name": "fish3",
+        "Zh": "蓝带鱼",
+        "En": "Blue Ribbon Fish",
+        "Vn": "cá ruy băng xanh"
+    },
+    {
+        "variable_name": "fish4",
+        "Zh": "小丑鱼",
+        "En": "Clownfish",
+        "Vn": "cá hề"
+    },
+    {
+        "variable_name": "fish5",
+        "Zh": "燕鱼",
+        "En": "Swallowfish",
+        "Vn": "cá nuốt"
+    },
+    {
+        "variable_name": "fish6",
+        "Zh": "乌龟",
+        "En": "Turtle",
+        "Vn": "con rùa"
+    },
+    {
+        "variable_name": "fish7",
+        "Zh": "灯笼鱼",
+        "En": "Lantern fish",
+        "Vn": "cá đèn lồng"
+    },
+    {
+        "variable_name": "fish8",
+        "Zh": "旗鱼",
+        "En": "Sailfish",
+        "Vn": "cá kiếm"
+    },
+    {
+        "variable_name": "fish9",
+        "Zh": "锤头鲨",
+        "En": "Giant Shark",
+        "Vn": "cá mập đầu búa"
+    },
+    {
+        "variable_name": "fish10",
+        "Zh": "蓝鲨",
+        "En": "Blue shark",
+        "Vn": "cá mập xanh"
+    },
+    {
+        "variable_name": "fish11",
+        "Zh": "金条鱼",
+        "En": "Gold Bar Fish",
+        "Vn": "cá thỏi vàng"
+    },
+    {
+        "variable_name": "fish12",
+        "Zh": "狂暴河豚",
+        "En": "Raging Blowfish",
+        "Vn": "Cá nóc hoành hành"
+    },
+    {
+        "variable_name": "fish13",
+        "Zh": "金龟",
+        "En": "Golden Turtle",
+        "Vn": "rùa vàng"
+    },
+    {
+        "variable_name": "fish14",
+        "Zh": "金水母",
+        "En": "Golden Jellyfish",
+        "Vn": "sứa vàng"
+    },
+    {
+        "variable_name": "fish15",
+        "Zh": "锦鲤",
+        "En": "Koi",
+        "Vn": "Cá Koi"
+    },
+    {
+        "variable_name": "fish16",
+        "Zh": "金枪鱼",
+        "En": "Golden Tuna",
+        "Vn": "cá ngừ"
+    },
+    {
+        "variable_name": "fish17",
+        "Zh": "金锤头鲨",
+        "En": "Golden Giant Shark",
+        "Vn": "cá mập đầu búa vàng"
+    },
+    {
+        "variable_name": "fish18",
+        "Zh": "魔鬼鱼",
+        "En": "Devilfish",
+        "Vn": "Manta Ray"
+    },
+    {
+        "variable_name": "fish19",
+        "Zh": "章鱼国王",
+        "En": "King Octopus",
+        "Vn": "Vua bạch tuộc"
+    },
+    {
+        "variable_name": "fish20",
+        "Zh": "福袋鲸",
+        "En": "Fortune Whale",
+        "Vn": "Cá voi may mắn"
+    },
+    {
+        "variable_name": "fish21",
+        "Zh": "金龙",
+        "En": "Golden Dragon",
+        "Vn": "rồng Vàng"
+    },
+    {
+        "variable_name": "fish22",
+        "Zh": "炎魔狐狸",
+        "En": "Inferno Fox",
+        "Vn": "Cáo Balrog"
+    },
+    {
+        "variable_name": "fish23",
+        "Zh": "钻头火箭",
+        "En": "Drill Rocket",
+        "Vn": "khoan tên lửa"
+    },
+    {
+        "variable_name": "fish24",
+        "Zh": "幸运龙珠",
+        "En": "Lucky Pearl",
+        "Vn": "Viên ngọc rồng may mắn"
+    },
+    {
+        "variable_name": "fish25",
+        "Zh": "宝藏蟹",
+        "En": "Treasure Crab",
+        "Vn": "cua kho báu"
+    },
+    {
+        "variable_name": "fish26",
+        "Zh": "冰冻鱼",
+        "En": "Frozen Fish",
+        "Vn": "cá đông lạnh"
+    },
+    {
+        "variable_name": "fish27",
+        "Zh": "闪电鱼",
+        "En": "Lightning Fish",
+        "Vn": "cá sét"
+    },
+    {
+        "variable_name": "fish28",
+        "Zh": "小黑洞鱼",
+        "En": "Little Black Hole Fish",
+        "Vn": "cá lỗ đen nhỏ"
+    },
+    {
+        "variable_name": "fish29",
+        "Zh": "黑洞鱼",
+        "En": "Black Hole Fish",
+        "Vn": "cá lỗ đen"
+    },
+    {
+        "variable_name": "fish30",
+        "Zh": "炸弹鱼",
+        "En": "Bomb Fish",
+        "Vn": "cá bom"
+    },
+    {
+        "variable_name": "fish31",
+        "Zh": "宝藏船",
+        "En": "Treasure Boat",
+        "Vn": "tàu kho báu"
+    },
+    {
+        "variable_name": "fish32",
+        "Zh": "齐天大虾",
+        "En": "King Prawn",
+        "Vn": "Tôm chúa khỉ"
+    },
+    {
+        "variable_name": "fish34",
+        "Zh": "财神",
+        "En": "Wealth God ",
+        "Vn": "Tài Thần"
+    },
+    {
+        "variable_name": "group3",
+        "Zh": "大三元",
+        "En": "Three Stars",
+        "Vn": "đại tam nguyên"
+    },
+    {
+        "variable_name": "group4",
+        "Zh": "大四喜",
+        "En": "Four Stars",
+        "Vn": "đại tứ hỉ"
+    },
+    {
+        "variable_name": "group2",
+        "Zh": "开火车",
+        "En": "Train",
+        "Vn": "khai hỏa xa"
+    },
+    {
+        "variable_name": "group5",
+        "Zh": "五连环",
+        "En": "Five in a row",
+        "Vn": "ngũ liên hoàn"
+    },
+    {
+        "variable_name": "group1",
+        "Zh": "一网打尽",
+        "En": "All in one net",
+        "Vn": "toàn bộ sa lưới"
+    },
+    {
+        "variable_name": "fish_tips_1",
+        "Zh": "爱生气的宝宝，被攻击时有机率变得暴躁并增大，奖励也越来越高。",
+        "En": "Babies who love to be angry have a chance to become cranky and increase in size when attacked, and the rewards are getting higher and higher.",
+        "Vn": "Cơ hội bị tấn công tăng lên và phần thưởng ngày càng cao hơn."
+    },
+    {
+        "variable_name": "fish_tips_2",
+        "Zh": "锦鲤一直在，好运自然来！捕获可获得随机奖励，来碰碰运气吧！",
+        "En": "Koi are always around, good luck comes naturally! Random rewards are available for catching them, so come and try your luck!",
+        "Vn": "Chụp có thể nhận được phần thưởng ngẫu nhiên, hãy đến và thử vận ​​may của bạn!"
+    },
+    {
+        "variable_name": "fish_tips_3",
+        "Zh": "来自海底的神秘BOSS，永远的不死族，持续攻击会给你无限的惊喜！",
+        "En": "Mysterious BOSS from the bottom of the sea, forever immortal, continuous attack will give you infinite surprises!",
+        "Vn": "BOSS bí ẩn từ đáy biển, lũ xác sống vĩnh cửu, tấn công liên tục sẽ mang đến cho bạn những bất ngờ bất tận!"
+    },
+    {
+        "variable_name": "fish_tips_4",
+        "Zh": "福袋鲸中润藏着各种不同的奖励，捕获它如同开盲盒一般的精彩刺激！",
+        "En": "There are different kinds of rewards hidden in the Fortune Whale, catching it is as exciting as opening a blind box!",
+        "Vn": "Có nhiều phần thưởng khác nhau ẩn trong con cá voi may mắn và việc bắt được nó cũng thú vị như mở một chiếc hộp mù!"
+    },
+    {
+        "variable_name": "fish_tips_5",
+        "Zh": "黄金系列鱼，捕获额外获得积分，累积不同等级积分，可分别进行：普通、青铜、白银、黄金等级的抽奖，等级越高奖励越丰厚！",
+        "En": "Gold series of fish, capture extra points, accumulate different levels of points, respectively: ordinary, bronze, silver, gold level of the lottery, the higher the level of the more generous rewards!",
+        "Vn": "Đối với cá dòng vàng, bạn có thể nhận thêm điểm bằng cách tích lũy điểm ở các cấp độ khác nhau, có thể rút riêng: cấp độ thông thường, đồng, bạc và vàng, phần thưởng sẽ càng hào phóng!"
+    },
+    {
+        "variable_name": "fish_tips_6",
+        "Zh": "上古炎魔神兽，捕获后奖励火焰炮，可随机免费攻击100-400次。",
+        "En": "Ancient Inferno Beast, rewarded with a flame cannon after capture, can randomly attack 100-400 times for free.",
+        "Vn": "Quái thú lửa cổ xưa sau khi bị bắt sẽ được thưởng một khẩu pháo lửa, có thể tấn công ngẫu nhiên 100-400 lần miễn phí."
+    },
+    {
+        "variable_name": "fish_tips_7",
+        "Zh": "该火箭炮可在屏幕内反弹15秒，路径上穿透的鱼都有一定机率被捕获。",
+        "En": "The bazooka bounces around the screen for 15 seconds, and any fish that penetrate in its path have a chance of being caught.",
+        "Vn": "Bệ phóng tên lửa có thể nảy trong màn hình trong 15 giây và bất kỳ con cá nào nó xâm nhập trên đường đi của nó đều có cơ hội bị bắt nhất định."
+    },
+    {
+        "variable_name": "fish_tips_8",
+        "Zh": "收集好龙珠，许个愿吧！最高有600倍大奖等着你来抽哦！",
+        "En": "Collect the Lucky Pearl and make a wish! There are up to 600 times the grand prize waiting for you to draw!",
+        "Vn": "Thu thập các viên ngọc rồng và thực hiện một điều ước! Có tới 600 lần giải thưởng lớn đang chờ bạn rút thăm!"
+    },
+    {
+        "variable_name": "fish_tips_9",
+        "Zh": "是生存还是死亡？将命运交给那该死的轮盘吧！",
+        "En": "Survive or die? Leave your fate to the damn roulette wheel!",
+        "Vn": "Đó là sự sống còn hay cái chết? Hãy để số phận của bạn cho cái bánh roulette chết tiệt đó!"
+    },
+    {
+        "variable_name": "fish_tips_10",
+        "Zh": "寒气凌人，掌握绝对0度的秘密，捕获它可全屏冰冻5秒。",
+        "En": "Cold Air, the secret of absolute 0 degrees. Capture it to freeze the whole screen for 5 seconds.",
+        "Vn": "Lạnh đến mức bạn có thể nắm vững bí quyết 0 độ tuyệt đối. Chụp sẽ đóng băng toàn bộ màn hình trong 5 giây."
+    },
+    {
+        "variable_name": "fish_tips_11",
+        "Zh": "捕获它可触发电网，有一定机率将身边的鱼捕获。",
+        "En": "Catching triggers the grid, and there is a chance of catching fish around you.",
+        "Vn": "Việc bắt sẽ kích hoạt lưới và có cơ hội bắt được cá xung quanh bạn."
+    },
+    {
+        "variable_name": "fish_tips_12",
+        "Zh": "捕获它可触发神秘小型黑洞有机率吞噬附近的鱼。",
+        "En": "Capture it to trigger the mysterious small black hole with a chance to swallow nearby fish.",
+        "Vn": "Việc bắt được nó sẽ kích hoạt một lỗ đen nhỏ bí ẩn có khả năng nuốt chửng những con cá gần đó."
+    },
+    {
+        "variable_name": "fish_tips_13",
+        "Zh": "捕获它可触发神秘大型黑洞有机率吞噬附近的鱼。",
+        "En": "Capture it to trigger the mysterious large black hole with a chance to swallow nearby fish.",
+        "Vn": "Việc bắt được nó sẽ kích hoạt một lỗ đen lớn bí ẩn có khả năng nuốt chửng những con cá gần đó."
+    },
+    {
+        "variable_name": "fish_tips_14",
+        "Zh": "威力巨大的全屏炸弹，让您收获满满！",
+        "En": "The powerful full-screen bomb will give you a lot of rewards!",
+        "Vn": "Bom toàn màn hình mạnh mẽ mang lại cho bạn rất nhiều phần thưởng!"
+    },
+    {
+        "variable_name": "fish_tips_15",
+        "Zh": "永不击沉的宝藏船，持续攻击会掉落无数的宝藏！",
+        "En": "Never-sinkable Treasure Ship that drops countless treasures with constant attacks!",
+        "Vn": "Một con tàu kho báu sẽ không bao giờ chìm, các cuộc tấn công liên tục sẽ làm rơi ra vô số kho báu!"
+    },
+    {
+        "variable_name": "fish_tips_16",
+        "Zh": "齐天大圣的弟弟腾云驾雾般的走来了，它有一颗永生不死的心，快来挑战吧！",
+        "En": "King Prawn comes prancing in the clouds, it has a heart that never dies, come and challenge it!",
+        "Vn": "Em trai của Hầu Vương như mây bay đến, hắn có trái tim bất diệt, hãy đến thách thức hắn!"
+    },
+    {
+        "variable_name": "fish_tips_17",
+        "Zh": "黄金系列鱼，捕获获得额外积分，累积不同等级积分，可分别进行：普通、青铜、白银、黄金等级的抽奖，等级越高奖励越丰富",
+        "En": "Gold Series Fish, capture to get extra points, accumulate different levels of points, can be respectively: ordinary, bronze, silver, gold level of the lottery, the higher the level of the more rich rewards!",
+        "Vn": "Bắt cá loạt vàng để nhận thêm điểm Tích lũy điểm ở các cấp độ khác nhau, có thể rút riêng: cấp thông thường, đồng, bạc và vàng. Cấp càng cao, phần thưởng càng phong phú."
+    },
+    {
+        "variable_name": "fish_tips_18",
+        "Zh": "开始",
+        "En": "Start",
+        "Vn": "bắt đầu"
+    },
+    {
+        "variable_name": "fish_tips_19",
+        "Zh": "宝藏蟹轮盘",
+        "En": "Treasure Wheel",
+        "Vn": "Roulette Cua Kho Báu"
+    },
+    {
+        "variable_name": "fish_tips_20",
+        "Zh": "全屏冰冻",
+        "En": "Full Screen Freeze",
+        "Vn": "Đóng băng toàn màn hình"
+    },
+    {
+        "variable_name": "fish_tips_21",
+        "Zh": "幸运龙珠",
+        "En": "Lucky Pearl",
+        "Vn": "Viên ngọc rồng may mắn"
+    },
+    {
+        "variable_name": "fish_tips_22",
+        "Zh": "请选择一个龙珠",
+        "En": "Please select a Dragonball",
+        "Vn": "Hãy chọn một viên ngọc rồng"
+    },
+    {
+        "variable_name": "fish_tips_23",
+        "Zh": "倒计时",
+        "En": "Countdown",
+        "Vn": "Đếm ngược"
+    },
+    {
+        "variable_name": "fish_tips_24",
+        "Zh": "请点击",
+        "En": "Please click",
+        "Vn": "hãy bấm vào"
+    },
+    {
+        "variable_name": "fish_tips_25",
+        "Zh": "捕获龙珠后，进入“幸运龙珠”抽奖页面；",
+        "En": "After capturing a Lucky Pearl, you will enter the ‘Lucky Pearl’ lucky draw page;",
+        "Vn": "Sau khi bắt được ngọc rồng thì vào trang xổ số “Bóng rồng may mắn”"
+    },
+    {
+        "variable_name": "fish_tips_26",
+        "Zh": "选择任意“龙珠”获得60-600随机倍率奖励；",
+        "En": "Choose any Dragonball to get a 60-600 random multiplier reward;",
+        "Vn": "Chọn bất kỳ Viên ngọc rồng nào để nhận phần thưởng nhân ngẫu nhiên từ 60-600"
+    },
+    {
+        "variable_name": "fish_tips_27",
+        "Zh": "超时或掉线，系统会帮玩家随机开取一个奖励。",
+        "En": "If you time out or drop out of the game, the system will help you to get a random reward.",
+        "Vn": "Nếu trò chơi hết thời gian hoặc bị ngắt kết nối, hệ thống sẽ rút thưởng ngẫu nhiên cho người chơi."
+    },
+    {
+        "variable_name": "fish_tips_28",
+        "Zh": "免费抽奖",
+        "En": "Free Lucky Draw",
+        "Vn": "Rút thăm miễn phí"
+    },
+    {
+        "variable_name": "fish_tips_29",
+        "Zh": "普通抽奖",
+        "En": "Normal",
+        "Vn": "Rút thăm thông thường"
+    },
+    {
+        "variable_name": "fish_tips_30",
+        "Zh": "青铜抽奖",
+        "En": "Bronze",
+        "Vn": "Rút thăm đồng"
+    },
+    {
+        "variable_name": "fish_tips_31",
+        "Zh": "白银抽奖",
+        "En": "Silver",
+        "Vn": "Rút thăm bạc"
+    },
+    {
+        "variable_name": "fish_tips_32",
+        "Zh": "黄金抽奖",
+        "En": "Gold",
+        "Vn": "Rút thăm vàng"
+    },
+    {
+        "variable_name": "fish_tips_33",
+        "Zh": "点击抽奖",
+        "En": "Click to Draw",
+        "Vn": "Bấm để Rút thăm "
+    },
+    {
+        "variable_name": "fish_tips_34",
+        "Zh": "继续游戏",
+        "En": "Continue Playing",
+        "Vn": "Tiếp tục trò chơi"
+    },
+    {
+        "variable_name": "fish_tips_35",
+        "Zh": "天降财神，好运连连，捕获概率：1/356！最高可获得1000倍奖励！",
+        "En": "God of Wealth brings you good luck, kill rate: 1/356! You can get up to 1000 times the reward!",
+        "Vn": "Thần may mắn và giàu có, tỷ lệ giết: 1/356! Phần thưởng tối đa gấp 1000 lần phần thưởng!"
+    },
+    {
+        "variable_name": "cannon1",
+        "Zh": "普通炮",
+        "En": "Ordinary Cannon",
+        "Vn": "Pháo thông thường"
+    },
+    {
+        "variable_name": "cannon2",
+        "Zh": "财神炮",
+        "En": "God of Fortune Cannon",
+        "Vn": "Pháo thần giàu có"
+    },
+    {
+        "variable_name": "cannon3",
+        "Zh": "烈火永生炮",
+        "En": "Eternal Flame Cannon",
+        "Vn": "ngọn pháo vĩnh cửu"
+    },
+    {
+        "variable_name": "cannon4",
+        "Zh": "机甲战神炮",
+        "En": "Mecha Battle Cannon",
+        "Vn": "Pháo Mecha Ares"
+    },
+    {
+        "variable_name": "cannon5",
+        "Zh": "激光幻影炮",
+        "En": "Laser Phantom Cannon",
+        "Vn": "pháo ma thuật laser"
+    },
+    {
+        "variable_name": "cannon6",
+        "Zh": "时光冰封炮",
+        "En": "Time Ice Cannon",
+        "Vn": "Pháo đóng băng thời gian"
+    },
+    {
+        "variable_name": "cannon7",
+        "Zh": "火焰炮",
+        "En": "Flame Cannon",
+        "Vn": "pháo lửa"
+    },
+    {
+        "variable_name": "cannon8",
+        "Zh": "钻头炮",
+        "En": "Drill Cannon",
+        "Vn": "Súng khoan"
+    },
+    {
+        "variable_name": "cannon_tips_1",
+        "Zh": "福到，喜到，财神到，发大财必备幸运炮台！  攻击任意鱼时，有几率获得额外随机9/19/29……99倍奖金！",
+        "En": "Blessing, joy, and wealth have arrived. When attacking any fish, there is a chance to receive an additional random 9/19/29... 99 times bonus!",
+        "Vn": "Phúc đến, hỉ đến, thần tài đến, công kích tùy ý cá khi, có tỷ lệ thu được thêm ngẫu nhiên 9/19/29...99 lần tiền thưởng!"
+    },
+    {
+        "variable_name": "cannon_tips_2",
+        "Zh": "每一发子弹都有它的价值，发射子弹会积累能量，能量满了可以召唤赤炎神鸟全屏轰炸，毁天灭地，寸草不生！",
+        "En": "Every bullet has its value, firing bullets will accumulate energy, when the energy is full, you can summon the Red Inferno God Bird to bombard the whole screen, destroying the sky and the earth, leaving no grass untouched!",
+        "Vn": "Mỗi viên đạn đều có giá trị của nó. Khi viên đạn được bắn ra sẽ tích lũy năng lượng. Khi năng lượng đầy, bạn có thể triệu hồi chú chim đỏ để bắn phá toàn bộ màn hình, hủy diệt thế giới không trừa một cọng cỏ!!"
+    },
+    {
+        "variable_name": "cannon_tips_3",
+        "Zh": "发射穿甲弹直线飞出屏幕，轻松穿透子弹路径上所有鱼！每次穿透消耗1发子弹。",
+        "En": "Fire armour-piercing bullets that fly straight out of the screen, easily penetrating all fish in the bullet's path! Each penetration consumes 1 bullet.",
+        "Vn": "Bắn một viên đạn xuyên giáp và bay thẳng ra khỏi màn hình, dễ dàng xuyên thủng mọi con cá trên đường đạn! Mỗi lần xuyên tiêu tốn 1 viên đạn."
+    },
+    {
+        "variable_name": "cannon_tips_4",
+        "Zh": "启动高科技打鱼模式！发射激光自动高速锁定攻击，每4-8秒随机触发冲击波进行攻击，可提高击杀效果！",
+        "En": "Launch high-tech fish fighting mode! Firing laser automatically locks the attack at high speed and randomly triggers shockwave to attack every 4-8 seconds, which can increase the killing effect!",
+        "Vn": "Bắt đầu chế độ câu cá công nghệ cao! Nó phát ra tia laser để tự động khóa đòn tấn công ở tốc độ cao và ngẫu nhiên kích hoạt sóng xung kích để tấn công sau mỗi 4-8 giây, điều này có thể cải thiện hiệu quả tiêu diệt!"
+    },
+    {
+        "variable_name": "cannon_tips_5",
+        "Zh": "让鱼儿停下来安静一会，炮弹有一定几率冰封鱼，持续2秒。",
+        "En": "Make the fish stop and be quiet for a while, the cannonball has a chance to freeze the fish for 2 seconds.",
+        "Vn": "Để cá dừng lại và im lặng một lúc. Vỏ có khả năng đóng băng cá trong 2 giây."
+    },
+    {
+        "variable_name": "minigame_1",
+        "Zh": "免费抽奖",
+        "En": "Free Lucky Draw",
+        "Vn": "Rút thăm miễn phí"
+    },
+    {
+        "variable_name": "minigame_2",
+        "Zh": "幸运龙珠抽奖",
+        "En": "Lucky Pearl Lucky Draw",
+        "Vn": "Rút thăm ngọc rồng may mắn"
+    },
+    {
+        "variable_name": "minigame_3",
+        "Zh": "宝藏蟹轮盘",
+        "En": "Treasure Crab Roulette",
+        "Vn": "Roulette Cua Kho Báu"
+    },
+    {
+        "variable_name": "tips69",
+        "Zh": "规则",
+        "En": "Rules",
+        "Vn": "luật lệ"
+    },
+    {
+        "variable_name": "tips70",
+        "Zh": "音效",
+        "En": "Effects",
+        "Vn": "âm thanh"
+    },
+    {
+        "variable_name": "tips71",
+        "Zh": "个人信息",
+        "En": "Information",
+        "Vn": "thông tin cá nhân"
+    },
+    {
+        "variable_name": "tips72",
+        "Zh": "确定更换",
+        "En": "Confirm",
+        "Vn": "Xác nhận thay thế"
+    },
+    {
+        "variable_name": "tips73",
+        "Zh": "提示",
+        "En": "Tip",
+        "Vn": "gợi ý"
+    },
+    {
+        "variable_name": "tips74",
+        "Zh": "确定",
+        "En": "OK",
+        "Vn": "Chắc chắn"
+    },
+    {
+        "variable_name": "tips75",
+        "Zh": "取消",
+        "En": "Cancel",
+        "Vn": "Hủy bỏ"
+    },
+    {
+        "variable_name": "tips76",
+        "Zh": "音乐",
+        "En": "Music",
+        "Vn": "âm nhạc"
+    },
+    {
+        "variable_name": "tips77",
+        "Zh": "他人特效",
+        "En": "Other people's effects",
+        "Vn": "Hiệu ứng đặc biệt của người khác"
+    },
+    {
+        "variable_name": "tips78",
+        "Zh": "游戏规则",
+        "En": "Game Rules",
+        "Vn": "luật chơi"
+    },
+    {
+        "variable_name": "tips79",
+        "Zh": "玩法介绍",
+        "En": "Gameplay Introduction",
+        "Vn": "Giới thiệu trò chơi"
+    },
+    {
+        "variable_name": "long_tips80",
+        "Zh": "《乐享捕鱼》继承经典的街机捕鱼玩法，多种游戏模式满足了不同玩家的需求，游戏画面绚丽多彩，游戏技能、炮台多种多样丰富多彩，更有各种触发的小游戏充满了神秘色彩等你来体验!",
+        "En": "Enjoy Fishing’ inherits the classic arcade fishing gameplay, a variety of game modes to meet the needs of different players, the game screen is colourful, the game skills, turrets a variety of colourful, and there are a variety of triggered mini-games full of mystery waiting for you to experience!",
+        "Vn": "Thưởng thức câu cá kế thừa lối chơi câu cá arcade cổ điển. Nhiều chế độ chơi đáp ứng nhu cầu của những người chơi khác nhau. Màn hình trò chơi đầy màu sắc, kỹ năng trò chơi và tháp pháo đa dạng và đầy màu sắc, đồng thời còn có nhiều trò chơi mini kích hoạt khác nhau. đang chờ bạn trải nghiệm!"
+    },
+    {
+        "variable_name": "long_tips81",
+        "Zh": "1、游戏有两个房间，分1分场、1元场，级别越高的房间，炮台倍率越高，鱼的种类越多，鱼鉴中含有鱼的倍率及特殊鱼玩法说明；",
+        "En": "1, The game has two rooms,1 cent Field，1 dollar Field , the higher the level of the room, the higher the multiplier of the turret, the more types of fish, the fish almanac contains the multiplier of the fish and special fish play instructions;                                                                                                                  ",
+        "Vn": "1. Trò chơi có hai phòng, được chia thành phòng 1 điểm và phòng 1 đông. Cấp độ phòng càng cao thì hệ số tháp pháo càng cao và càng có nhiều loại cá."
+    },
+    {
+        "variable_name": "long_tips82",
+        "Zh": "2、点击屏幕可以开炮，长按则连续开炮；",
+        "En": "2、Tap the screen to fire the cannon, long press to fire the cannon continuously;                        ",
+        "Vn": "2. Nhấp vào màn hình để bắn, nhấn lâu để bắn liên tục;"
+    },
+    {
+        "variable_name": "long_tips83",
+        "Zh": "3、自动攻击：朝一个方向自动发射；\n",
+        "En": " 3、Auto Attack: fire automatically in one direction;                                                                               ",
+        "Vn": "3. Tự động tấn công: tự động phát động theo một hướng;"
+    },
+    {
+        "variable_name": "long_tips84",
+        "Zh": "4、鱼类锁定：锁定一种鱼类攻击，当前鱼击杀后自动更换同类的鱼攻击；\n",
+        "En": "4、Fish lock: lock a kind of fish to attack, and automatically replace the same kind of fish to attack after the current fish is killed;                                                                                                          ",
+        "Vn": "4. Khóa cá: khóa một kiểu tấn công của cá và tự động thay thế kiểu tấn công của cá tương tự sau khi con cá hiện tại bị giết;"
+    },
+    {
+        "variable_name": "long_tips85",
+        "Zh": "5、威力X2：发射炮弹数量加倍；\n",
+        "En": "5、Power X2: double the number of cannonballs fired;                                                                        ",
+        "Vn": "5. Sức mạnh X2: Nhân đôi số đạn bắn ra;"
+    },
+    {
+        "variable_name": "long_tips86",
+        "Zh": "6、鱼的价值不同奖励也不同，击杀成功后获得奖励=炮台倍率*鱼的倍率\n",
+        "En": "6, the value of the fish is different rewards are also different, kill the successful reward = turret multiplier * fish multiplier                                                                                                                             ",
+        "Vn": "6. Giá trị của cá là khác nhau và phần thưởng nhận được sau khi tiêu diệt thành công = hệ số tháp pháo * hệ số nhân cá."
+    },
+    {
+        "variable_name": "long_tips87",
+        "Zh": "7、部分特殊鱼可以触发小游戏：\n●宝藏蟹--触发轮盘抽奖，可随机获得20-300倍奖励\n●锦鲤--触发盲盒开奖，可随机获得60-80倍奖励\n●福袋鲸--触发盲盒开奖，可随机获得100-500倍奖励\n●幸运龙珠--触发龙珠抽奖，可随机获得60-600倍奖励\n●黄金系列鱼--攻击可获得黄金积分，累积一定积分可分别获得普通、青铜、白银、黄金不同级别的抽奖\n",
+        "En": "7、Some special fish can trigger mini-games:  ● Treasure Crab - trigger roulette draw, can get 20-300 times random reward  ● Koi  - trigger blind box draw, can get 60-80 times random reward ● Fortune Whale - Trigger the blind box draw, you can get 100-500 times random reward ● Lucky Pearl - Trigger the Dragon Balls draw, you can randomly get 60-600 times rewards                                                                                                                                                            ● Gold Series Fish - Attacking can get gold points, accumulating a certain amount of points can be obtained ordinary, bronze, silver, gold different levels of lucky draws                                  ",
+        "Vn": "7. Một số loài cá đặc biệt có thể kích hoạt mini game:\n●Cua Kho Báu--Kích hoạt quay roulette và nhận phần thưởng ngẫu nhiên gấp 20-300 lần\n●Koi--kích hoạt xổ số hộp mù và nhận phần thưởng ngẫu nhiên gấp 60-80 lần\n●Cá voi may mắn--Kích hoạt xổ số hộp mù và nhận phần thưởng ngẫu nhiên gấp 100-500 lần\n● Viên ngọc rồng may mắn - kích hoạt xổ số Viên ngọc rồng và nhận phần thưởng ngẫu nhiên gấp 60-600 lần\n●Cá dòng vàng--Bạn có thể nhận được điểm vàng bằng cách tấn công. Nếu bạn tích lũy được một số điểm nhất định, bạn có thể nhận được các cấp độ rút thăm khác nhau như thông thường, đồng, bạc và vàng."
+    },
+    {
+        "variable_name": "long_tips88",
+        "Zh": "8、丰富多样的炮台，各有特色：\n●财神炮--击杀任意鱼时，有几率获得额外随机9/19/29……99倍奖金！\n●烈火永生炮--发射炮弹会累积一定的能量，当能量值满时，可以召唤神鸟朱雀进行全屏炸弹攻击，任何鱼都有几率击杀。\n●机甲战神炮--发射穿甲弹直线飞出屏幕，轻松穿透子弹路径上所有鱼！每碰到一次鱼，消耗1发子弹。\n●激光幻影炮--发射激光自动高速锁定攻击，攻击速度加倍，每4-8秒随机触发冲击波进行攻击，可提高击杀效果！\n●时光冰封炮--炮弹有一定几率冰封鱼，让鱼静止，持续2秒。\n●火焰炮--击杀“炎魔狐狸”获得，并且获得随机的100-400发免费炮弹。\n●钻头火箭--击杀“火箭”获得，发射后钻头火箭可在屏幕内反弹15秒，反弹路径上的鱼都可被攻击一次。",
+        "En": "8、Rich and diverse turrets, each with its own characteristics:                                                            ● God of Fortune Cannon - When killing any fish, there is a chance to get extra random 9/19/29......99 times bonus!                                                                                                                            ● Eternal Flame Cannon - Firing cannonballs will accumulate a certain amount of energy, when the energy value is full, you can summon the divine bird                                                             Vermillion Bird for a full-screen bomb attack, and any fish will have a chance to be killed.           ● Mecha Battle Cannon - Fire armour-piercing shells that fly straight out of the screen, easily penetrating all fish in the path of the bullet! Consumes 1 bullet for each fish encounter.            ●Laser Phantom Cannon - Fires lasers to automatically lock on to the attack at high speed, doubles the attack speed, and randomly triggers a shockwave to attack every 4-8 seconds for improved kills!                                                                                                                                              ● Time Ice Cannon - Cannon shells have a chance to freeze fish, making them stationary for 2 seconds.                                                                                                                                                         ● Flame Cannon - Earned by killing the ‘Inferno Fox’ and receive a random 100-400 free shells.                                                                                                                                                             ● Drill Rocket - Obtained by killing the ‘Rocket’, the drill rocket bounces around the screen for 15 seconds after firing, and any fish in the path of the bounce can be attacked once.’",
+        "Vn": "8. Pháo đài phong phú, đa dạng, mỗi pháo đài có đặc điểm riêng:\n●Pháo Thần Tài--Khi bạn giết bất kỳ con cá nào, bạn có cơ hội nhận thêm phần thưởng ngẫu nhiên 9/19/29...99 lần!\n●Bắn pháo vĩnh cửu--đạn bắn sẽ tích lũy một lượng năng lượng nhất định. Khi năng lượng đầy, chim thần Suzaku có thể được triệu tập để thực hiện đòn tấn công bằng bom toàn màn hình. Bất kỳ con cá nào cũng có cơ hội bị giết.\n●Mecha Ares Cannon - bắn những viên đạn xuyên giáp bay thẳng ra khỏi màn hình, dễ dàng xuyên thủng tất cả những con cá trên đường đạn! Mỗi lần gặp cá sẽ tiêu tốn 1 viên đạn.\n●Pháo ma laze - phóng tia laze để tự động khóa ở tốc độ cao và tấn công, tăng gấp đôi tốc độ tấn công. Nó ngẫu nhiên kích hoạt sóng xung kích để tấn công sau mỗi 4-8 giây, có thể cải thiện hiệu quả tiêu diệt!\n●Pháo đóng băng thời gian--Súng đại bác có khả năng đóng băng cá nhất định, khiến cá đứng yên trong 2 giây.\n●Pháo Lửa--thu được khi tiêu diệt The Balrog Fox và nhận được 100-400 đạn pháo miễn phí ngẫu nhiên.\n●Tên lửa khoan--thu được bằng cách tiêu diệt Rocket. Sau khi được phóng, tên lửa khoan có thể nảy lên màn hình trong 15 giây và bất kỳ con cá nào trên đường bật lại đều có thể bị tấn công một lần."
+    },
+    {
+        "variable_name": "tips89",
+        "Zh": "规则说明",
+        "En": "Description of rules",
+        "Vn": "Mô tả quy tắc"
+    },
+    {
+        "variable_name": "yujiandsy",
+        "Zh": "组合内所有鱼的倍率之和",
+        "En": "Sum of Combination Fish",
+        "Vn": "Tổng số nhân của tất cả cá trong tổ hợp"
+    },
+    {
+        "variable_name": "yujiandsx",
+        "Zh": "组合内所有鱼的倍率之和",
+        "En": "Sum of Combination Fish",
+        "Vn": "Tổng số nhân của tất cả cá trong tổ hợp"
+    },
+    {
+        "variable_name": "yujiankhc",
+        "Zh": "组合内所有鱼的倍率之和",
+        "En": "Sum of Combination Fish",
+        "Vn": "Tổng số nhân của tất cả cá trong tổ hợp"
+    },
+    {
+        "variable_name": "yujian5lh",
+        "Zh": "组合内所有鱼的倍率之和",
+        "En": "Sum of Combination Fish",
+        "Vn": "Tổng số nhân của tất cả cá trong tổ hợp"
+    },
+    {
+        "variable_name": "yujianywdj",
+        "Zh": "鱼王，所有同类鱼倍率之和",
+        "En": "Sum of fish of the same type",
+        "Vn": "Vua cá, tổng số nhân của tất cả các loài cá tương tự"
+    },
+    {
+        "variable_name": "yujian40002",
+        "Zh": "X30+电网捕获之和",
+        "En": "X30+Sum of grid captures",
+        "Vn": "X30+Tổng số lần chụp lưới"
+    },
+    {
+        "variable_name": "tips92",
+        "Zh": "未锁定鱼",
+        "En": "Unlocked fish",
+        "Vn": "chưa khóa cá"
+    },
+    {
+        "variable_name": "tips93",
+        "Zh": "暂无法开炮",
+        "En": "Cannot fire at the moment",
+        "Vn": "Chưa bắn được"
+    },
+    {
+        "variable_name": "tips94",
+        "Zh": "金币不足，请充值",
+        "En": "Not enough coins, please recharge",
+        "Vn": "Không đủ điểm, vui lòng nạp tiền"
+    },
+    {
+        "variable_name": "tips95",
+        "Zh": "暂无法切换炮台",
+        "En": "Cannot switch turrets",
+        "Vn": "Không thể chuyển đổi tháp pháo vào lúc này"
+    },
+    {
+        "variable_name": "tips96",
+        "Zh": "暂无注单数据",
+        "En": "No data for betting list",
+        "Vn": "Chưa có dữ liệu đặt cược"
+    },
+    {
+        "variable_name": "tips97",
+        "Zh": "暂未开放",
+        "En": "Not open yet",
+        "Vn": "Chưa mở"
+    },
+    {
+        "variable_name": "tips98",
+        "Zh": "游戏未开启",
+        "En": "The game is not open",
+        "Vn": "Trò chơi chưa bắt đầu"
+    },
+    {
+        "variable_name": "tips99",
+        "Zh": "请求异常",
+        "En": "Abnormal request",
+        "Vn": "Yêu cầu khác thường"
+    },
+    {
+        "variable_name": "tips100",
+        "Zh": "使用",
+        "En": "Use",
+        "Vn": "sử dụng"
+    },
+    {
+        "variable_name": "tips101",
+        "Zh": "您是否要更换位置？",
+        "En": "Do you want to change location?",
+        "Vn": "Bạn có muốn thay đổi địa điểm?"
+    },
+    {
+        "variable_name": "tips102",
+        "Zh": "取消",
+        "En": "Cancel",
+        "Vn": "Hủy bỏ"
+    },
+    {
+        "variable_name": "LogonFailure",
+        "Zh": "登录失败！",
+        "En": "Login failed!",
+        "Vn": "Đăng nhập không thành công!"
+    },
+    {
+        "variable_name": "RequestFailure",
+        "Zh": "进入游戏失败！",
+        "En": "Failed to enter the game!",
+        "Vn": "Không vào được game!"
+    },
+    {
+        "variable_name": "vipwings_1",
+        "Zh": "幽冥海战死的龙族公主魂晶所化，翼展时引渡深渊亡魂，号称冥渊信使，持有者可借魂晶之力逆转生死！  \\n 等级：VIP1 ",
+        "En": "Born from the soul crystal of a dragon princess who died in the Abyss Sea, it channels underworld power to reverse death. \\n LV:VIP1",
+        "Vn": "Tinh thể linh hồn công chúa rồng chết ở Biển U Minh, dẫn linh lực Hoàng Tuyền đảo ngược sinh tử. \\n Lớp:VIP1"
+    },
+    {
+        "variable_name": "vipwings_2",
+        "Zh": "森林神阿萨诺斯被背叛时流出的神血浸染藤蔓，缠绕成翼，荆棘刺伤敌人时会绽放血色玫瑰祭奠神明。\\n 等级：VIP2 ",
+        "En": "Blood of betrayed forest god Asanos cursed vines into wings; thorns bloom roses to mourn him.\\n LV:VIP2",
+        "Vn": "Máu thần rừng Asanos bị phản bội thấm vào dây leo, gai nở hoa hồng tưởng niệm.\\n Lớp:VIP2"
+    },
+    {
+        "variable_name": "vipwings_3",
+        "Zh": "火神赫菲斯托斯锻造末日战锤时溅落的星核熔浆，凝成赤焰双翼，曾焚毁亚特兰蒂斯海底叛军舰队。\\n 等级：VIP3 ",
+        "En": "Molten core sparks from Hephaestus' hammer formed blazing wings that burned Atlantis rebels.\\n LV:VIP3",
+        "Vn": "Tia lửa từ búa thần Hephaestus tạo cánh lửa thiêu rụi hạm đội phản loạn Atlantis.\\n Lớp:VIP3"
+    },
+    {
+        "variable_name": "vipwings_4",
+        "Zh": "时序三女神为阻止克洛诺斯吞噬时空，将神力注入沙漠旅人的怀表，沙粒倒流处万物定格如画。\\n 等级：VIP4 ",
+        "En": "Time Goddesses trapped Kronos' power in a desert traveler's hourglass, reversing sands to freeze time.\\n LV:VIP4",
+        "Vn": "Nữ thần thời gian phong ấn sức mạnh Kronos vào đồng hồ cát, cát ngược dòng đóng băng thời gian.\\n Lớp:VIP4"
+    },
+    {
+        "variable_name": "vipwings_5",
+        "Zh": "精灵女王被石化前撕下翅膀封印毒雾森林，每片磷粉都是诅咒解药，振翅声可唤醒沉睡的远古树灵。\\n 等级：VIP5 ",
+        "En": "Petrified Elf Queen's wings sealed poison forest; their dust cures curses and awakens ancient treants.\\n LV:VIP5",
+        "Vn": "Đôi cánh Nữ hoàng Tiên hóa đá phong ấn rừng độc, bụi cánh giải độc và đánh thức thần mộc.\\n Lớp:VIP5"
+    },
+    {
+        "variable_name": "vipwings_6",
+        "Zh": "炎魔巴尔陨落时心脏爆裂成三百火羽，附着在屠魔勇者的盔甲上，灼痕至今烙印着地狱第七层的硫磺符文。\\n 等级：VIP6 ",
+        "En": "Balor the Demon's heart exploded into 300 fire feathers, branding hell runes on warriors' armor.\\n LV:VIP6",
+        "Vn": "Tim quỷ Balor nổ thành 300 lông lửa, khắc rune địa ngục lên giáp chiến binh diệt quỷ.\\n Lớp:VIP6"
+    },
+    {
+        "variable_name": "vipwings_7",
+        "Zh": "财神赫耳墨斯与海妖打赌输掉的黄金羽衣，浸透贪婪者鲜血后诞生点金诅咒，翅尖永远指向最大宝藏。\\n 等级：VIP7 ",
+        "En": "Hermes' golden robe soaked in greedy blood became a treasure compass, forever pointing to riches.\\n LV:VIP7",
+        "Vn": "Áo vàng Hermes thấm máu tham lam thành la bàn kho báu, mũi cánh luôn chỉ nơi giàu nhất.\\n Lớp:VIP7"
+    }
+]

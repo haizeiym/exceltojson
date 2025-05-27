@@ -1,0 +1,46 @@
+[
+    {
+        "lottery_id": 1,
+        "lottery_award": [
+            10,
+            12,
+            15,
+            20,
+            25
+        ],
+        "lottery_condition": 1500
+    },
+    {
+        "lottery_id": 2,
+        "lottery_award": [
+            200,
+            250,
+            300,
+            350,
+            400
+        ],
+        "lottery_condition": 30000
+    },
+    {
+        "lottery_id": 3,
+        "lottery_award": [
+            3500,
+            4000,
+            4500,
+            5000,
+            6000
+        ],
+        "lottery_condition": 450000
+    },
+    {
+        "lottery_id": 4,
+        "lottery_award": [
+            40000,
+            50000,
+            60000,
+            70000,
+            80000
+        ],
+        "lottery_condition": 6000000
+    }
+]

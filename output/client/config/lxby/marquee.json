@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "zh": "恭喜玩家<color=#00ff00>{}</color>，捕获<color=#00ff00>{}</color><img src='{}'/>获得<color=#00ff00>{}</color>倍<color=#00ff00>{}</color>金币奖励！",
+        "en": "Congratulations to player <color=#00ff00>{}</color>, who captured <color=#00ff00>{}</color><img src='{}'/> and got <color=#00ff00>{}</color> times <color=#00ff00>{}</color> gold reward!",
+        "vn": "Chúc mừng người chơi<color=#00ff00>{}</color>，chiếm lấy<color=#00ff00>{}</color><img src='{}'/>Thắng<color=#00ff00>{}</color>lần<color=#00ff00>{}</color>phần thưởng tiền vàng!"
+    },
+    {
+        "id": 2,
+        "zh": "恭喜玩家<color=#00ff00>{}</color>，使用<img src='{}'/>获得额外<color=#00ff00>{}</color>倍<color=#00ff00>{}</color>金币奖励！",
+        "en": "Congratulations to player <color=#00ff00>{}</color>, who used <img src='{}'/> and received an additional <color=#00ff00>{}</color> times <color=#00ff00>{}</color> gold reward!",
+        "vn": "Chúc mừng người chơi<color=#00ff00>{}</color>，sử dụng<img src='{}'/>nhận thêm<color=#00ff00>{}</color>lần<color=#00ff00>{}</color>Phần thưởng tiền vàng!"
+    },
+    {
+        "id": 3,
+        "zh": "恭喜玩家<color=#00ff00>{}</color>，使用<img src='{}'/>召唤赤炎神鸟进行全屏攻击，获得了<color=#00ff00>{}</color>金币奖励！",
+        "en": "Congratulations to player <color=#00ff00>{}</color>, who used <img src='{}'/>, summoned a phoenix for a full-screen attack and received a <color=#00ff00>{}</color> gold bonus!",
+        "vn": "Chúc mừng người chơi<color=#00ff00>{}</color>，sử dụng<img src='{}'/>Triệu hồi Chim thần lửa đỏ để thực hiện đòn tấn công toàn màn hình，Thắng<color=#00ff00>{}</color>Phần thưởng tiền vàng!"
+    },
+    {
+        "id": 4,
+        "zh": "恭喜玩家<color=#00ff00>{}</color>，在<color=#00ff00>{}</color>中，获得<color=#00ff00>{}</color>金币奖励！",
+        "en": "Congratulations to player<color=#00ff00>{}</color>, who, in XXX, received a <color=#00ff00>{}</color>gold reward!",
+        "vn": "Chúc mừng người chơi<color=#00ff00>{}</color>，hiện hữu<color=#00ff00>{}</color>ở giữa，lấy<color=#00ff00>{}</color>Phần thưởng tiền vàng!"
+    }
+]

@@ -1,0 +1,1677 @@
+[
+    {
+        "fish_id": 1,
+        "fish_name": "赤背鱼",
+        "fish_type": 1,
+        "fish_attribute": 0,
+        "rtp": 10000,
+        "kill_multiple": 2,
+        "kill_award": 2,
+        "fish_grow": 0,
+        "speed": 300,
+        "fish_clear": 1,
+        "kill_fish": [],
+        "refresh_count": [
+            {
+                "3": 5
+            },
+            {
+                "4": 10
+            },
+            {
+                "5": 9
+            }
+        ],
+        "max_count": 20,
+        "path_id": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16
+        ]
+    },
+    {
+        "fish_id": 2,
+        "fish_name": "小黄鱼",
+        "fish_type": 1,
+        "fish_attribute": 0,
+        "rtp": 10000,
+        "kill_multiple": 2,
+        "kill_award": 2,
+        "fish_grow": 0,
+        "speed": 280,
+        "fish_clear": 1,
+        "kill_fish": [],
+        "refresh_count": [
+            {
+                "3": 5
+            },
+            {
+                "4": 10
+            },
+            {
+                "5": 9
+            }
+        ],
+        "max_count": 20,
+        "path_id": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16
+        ]
+    },
+    {
+        "fish_id": 3,
+        "fish_name": "蓝带鱼",
+        "fish_type": 1,
+        "fish_attribute": 0,
+        "rtp": 10000,
+        "kill_multiple": 3,
+        "kill_award": 3,
+        "fish_grow": 0,
+        "speed": 270,
+        "fish_clear": 1,
+        "kill_fish": [],
+        "refresh_count": [
+            {
+                "3": 5
+            },
+            {
+                "4": 10
+            },
+            {
+                "5": 9
+            }
+        ],
+        "max_count": 20,
+        "path_id": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16
+        ]
+    },
+    {
+        "fish_id": 4,
+        "fish_name": "小丑鱼",
+        "fish_type": 1,
+        "fish_attribute": 0,
+        "rtp": 10000,
+        "kill_multiple": 4,
+        "kill_award": 4,
+        "fish_grow": 0,
+        "speed": 240,
+        "fish_clear": 1,
+        "kill_fish": [],
+        "refresh_count": [
+            {
+                "3": 5
+            },
+            {
+                "4": 10
+            },
+            {
+                "5": 9
+            }
+        ],
+        "max_count": 20,
+        "path_id": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16
+        ]
+    },
+    {
+        "fish_id": 5,
+        "fish_name": "燕鱼",
+        "fish_type": 1,
+        "fish_attribute": 0,
+        "rtp": 10000,
+        "kill_multiple": 5,
+        "kill_award": 5,
+        "fish_grow": 0,
+        "speed": 200,
+        "fish_clear": 1,
+        "kill_fish": [],
+        "refresh_count": [
+            {
+                "3": 5
+            },
+            {
+                "4": 10
+            },
+            {
+                "5": 9
+            }
+        ],
+        "max_count": 20,
+        "path_id": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16
+        ]
+    },
+    {
+        "fish_id": 6,
+        "fish_name": "乌龟",
+        "fish_type": 1,
+        "fish_attribute": 0,
+        "rtp": 10000,
+        "kill_multiple": 8,
+        "kill_award": 8,
+        "fish_grow": 0,
+        "speed": 90,
+        "fish_clear": 1,
+        "kill_fish": [],
+        "refresh_count": [
+            {
+                "1": 10
+            },
+            {
+                "2": 15
+            },
+            {
+                "3": 10
+            }
+        ],
+        "max_count": 20,
+        "path_id": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16
+        ]
+    },
+    {
+        "fish_id": 7,
+        "fish_name": "灯笼鱼",
+        "fish_type": 1,
+        "fish_attribute": 0,
+        "rtp": 10000,
+        "kill_multiple": 10,
+        "kill_award": 10,
+        "fish_grow": 0,
+        "speed": 180,
+        "fish_clear": 1,
+        "kill_fish": [],
+        "refresh_count": [
+            {
+                "1": 10
+            },
+            {
+                "2": 15
+            },
+            {
+                "3": 10
+            }
+        ],
+        "max_count": 12,
+        "path_id": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16
+        ]
+    },
+    {
+        "fish_id": 8,
+        "fish_name": "旗鱼",
+        "fish_type": 1,
+        "fish_attribute": 0,
+        "rtp": 10000,
+        "kill_multiple": 15,
+        "kill_award": 15,
+        "fish_grow": 0,
+        "speed": 220,
+        "fish_clear": 1,
+        "kill_fish": [],
+        "refresh_count": [
+            {
+                "1": 10
+            },
+            {
+                "2": 15
+            },
+            {
+                "3": 10
+            }
+        ],
+        "max_count": 12,
+        "path_id": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16
+        ]
+    },
+    {
+        "fish_id": 9,
+        "fish_name": "锤头鲨",
+        "fish_type": 1,
+        "fish_attribute": 0,
+        "rtp": 10000,
+        "kill_multiple": 20,
+        "kill_award": 20,
+        "fish_grow": 0,
+        "speed": 150,
+        "fish_clear": 1,
+        "kill_fish": [],
+        "refresh_count": [
+            {
+                "1": 15
+            },
+            {
+                "2": 10
+            }
+        ],
+        "max_count": 12,
+        "path_id": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16
+        ]
+    },
+    {
+        "fish_id": 10,
+        "fish_name": "蓝鲨",
+        "fish_type": 1,
+        "fish_attribute": 0,
+        "rtp": 10000,
+        "kill_multiple": 30,
+        "kill_award": 30,
+        "fish_grow": 0,
+        "speed": 100,
+        "fish_clear": 1,
+        "kill_fish": [],
+        "refresh_count": [
+            {
+                "1": 15
+            },
+            {
+                "2": 10
+            }
+        ],
+        "max_count": 12,
+        "path_id": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16
+        ]
+    },
+    {
+        "fish_id": 11,
+        "fish_name": "金条鱼",
+        "fish_type": 2,
+        "fish_attribute": 0,
+        "rtp": 9500,
+        "kill_multiple": 40,
+        "kill_award": 40,
+        "fish_grow": 0,
+        "speed": 120,
+        "fish_clear": 1,
+        "kill_fish": [],
+        "refresh_count": [
+            {
+                "1": 15
+            },
+            {
+                "2": 10
+            }
+        ],
+        "max_count": 9,
+        "path_id": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16
+        ]
+    },
+    {
+        "fish_id": 12,
+        "fish_name": "狂暴河豚",
+        "fish_type": 5,
+        "fish_attribute": 0,
+        "rtp": 10000,
+        "kill_multiple": [
+            30,
+            50,
+            80,
+            100
+        ],
+        "kill_award": [
+            30,
+            50,
+            80,
+            100
+        ],
+        "fish_grow": [
+            0,
+            15,
+            35,
+            60
+        ],
+        "speed": 75,
+        "fish_clear": 1,
+        "kill_fish": [],
+        "refresh_count": [
+            {
+                "1": 20
+            }
+        ],
+        "max_count": 2,
+        "path_id": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16
+        ]
+    },
+    {
+        "fish_id": 13,
+        "fish_name": "金龟",
+        "fish_type": 2,
+        "fish_attribute": 0,
+        "rtp": 9500,
+        "kill_multiple": 50,
+        "kill_award": 50,
+        "fish_grow": 0,
+        "speed": 100,
+        "fish_clear": 1,
+        "kill_fish": [],
+        "refresh_count": [
+            {
+                "1": 20
+            }
+        ],
+        "max_count": 3,
+        "path_id": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16
+        ]
+    },
+    {
+        "fish_id": 14,
+        "fish_name": "金水母",
+        "fish_type": 2,
+        "fish_attribute": 0,
+        "rtp": 9500,
+        "kill_multiple": 60,
+        "kill_award": 60,
+        "fish_grow": 0,
+        "speed": 75,
+        "fish_clear": 1,
+        "kill_fish": [],
+        "refresh_count": [
+            {
+                "1": 20
+            }
+        ],
+        "max_count": 3,
+        "path_id": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16
+        ]
+    },
+    {
+        "fish_id": 15,
+        "fish_name": "锦鲤",
+        "fish_type": 6,
+        "fish_attribute": 0,
+        "rtp": 10000,
+        "kill_multiple": 70,
+        "kill_award": [
+            {
+                "60": 100
+            },
+            {
+                "65": 100
+            },
+            {
+                "70": 100
+            },
+            {
+                "75": 100
+            },
+            {
+                "80": 100
+            }
+        ],
+        "fish_grow": 0,
+        "speed": 88,
+        "fish_clear": 1,
+        "kill_fish": [],
+        "refresh_count": [
+            {
+                "1": 20
+            }
+        ],
+        "max_count": 3,
+        "path_id": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16
+        ]
+    },
+    {
+        "fish_id": 16,
+        "fish_name": "金枪鱼",
+        "fish_type": 2,
+        "fish_attribute": 0,
+        "rtp": 9500,
+        "kill_multiple": 100,
+        "kill_award": 100,
+        "fish_grow": 0,
+        "speed": 96,
+        "fish_clear": 1,
+        "kill_fish": [],
+        "refresh_count": [
+            {
+                "1": 20
+            }
+        ],
+        "max_count": 2,
+        "path_id": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16
+        ]
+    },
+    {
+        "fish_id": 17,
+        "fish_name": "金锤头鲨",
+        "fish_type": 2,
+        "fish_attribute": 0,
+        "rtp": 9500,
+        "kill_multiple": 120,
+        "kill_award": 120,
+        "fish_grow": 0,
+        "speed": 76,
+        "fish_clear": 1,
+        "kill_fish": [],
+        "refresh_count": [
+            {
+                "1": 20
+            }
+        ],
+        "max_count": 2,
+        "path_id": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16
+        ]
+    },
+    {
+        "fish_id": 18,
+        "fish_name": "魔鬼鱼",
+        "fish_type": 1,
+        "fish_attribute": 0,
+        "rtp": 10000,
+        "kill_multiple": 150,
+        "kill_award": 150,
+        "fish_grow": 0,
+        "speed": 80,
+        "fish_clear": 1,
+        "kill_fish": [],
+        "refresh_count": [
+            {
+                "1": 20
+            }
+        ],
+        "max_count": 4,
+        "path_id": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16
+        ]
+    },
+    {
+        "fish_id": 19,
+        "fish_name": "章鱼国王",
+        "fish_type": 7,
+        "fish_attribute": 1,
+        "rtp": 10000,
+        "kill_multiple": 30,
+        "kill_award": [
+            {
+                "5": 780
+            },
+            {
+                "10": 2000
+            },
+            {
+                "15": 2000
+            },
+            {
+                "20": 1000
+            },
+            {
+                "25": 100
+            },
+            {
+                "30": 100
+            },
+            {
+                "50": 100
+            },
+            {
+                "100": 100
+            },
+            {
+                "200": 100
+            },
+            {
+                "300": 100
+            },
+            {
+                "500": 100
+            }
+        ],
+        "fish_grow": 0,
+        "speed": 50,
+        "fish_clear": 1,
+        "kill_fish": [],
+        "refresh_count": [
+            {
+                "1": 20
+            }
+        ],
+        "max_count": 1,
+        "path_id": [
+            41,
+            42
+        ]
+    },
+    {
+        "fish_id": 20,
+        "fish_name": "福袋鲸",
+        "fish_type": 6,
+        "fish_attribute": 1,
+        "rtp": 10000,
+        "kill_multiple": 244,
+        "kill_award": [
+            {
+                "100": 50
+            },
+            {
+                "120": 100
+            },
+            {
+                "140": 100
+            },
+            {
+                "160": 100
+            },
+            {
+                "180": 100
+            },
+            {
+                "200": 100
+            },
+            {
+                "220": 100
+            },
+            {
+                "240": 100
+            },
+            {
+                "260": 100
+            },
+            {
+                "280": 100
+            },
+            {
+                "300": 100
+            },
+            {
+                "400": 100
+            },
+            {
+                "500": 100
+            }
+        ],
+        "fish_grow": 0,
+        "speed": 58,
+        "fish_clear": 1,
+        "kill_fish": [],
+        "refresh_count": [
+            {
+                "1": 20
+            }
+        ],
+        "max_count": 1,
+        "path_id": [
+            35,
+            36,
+            37,
+            38
+        ]
+    },
+    {
+        "fish_id": 21,
+        "fish_name": "金龙",
+        "fish_type": 2,
+        "fish_attribute": 1,
+        "rtp": 9500,
+        "kill_multiple": 360,
+        "kill_award": [
+            {
+                "200": 4750
+            },
+            {
+                "250": 8000
+            },
+            {
+                "300": 10000
+            },
+            {
+                "350": 10000
+            },
+            {
+                "400": 8000
+            },
+            {
+                "500": 5000
+            },
+            {
+                "600": 1000
+            },
+            {
+                "800": 1000
+            },
+            {
+                "1000": 1000
+            }
+        ],
+        "fish_grow": 0,
+        "speed": 67,
+        "fish_clear": 1,
+        "kill_fish": [],
+        "refresh_count": [
+            {
+                "1": 20
+            }
+        ],
+        "max_count": 1,
+        "path_id": [
+            35,
+            36,
+            37,
+            38
+        ]
+    },
+    {
+        "fish_id": 22,
+        "fish_name": "炎魔狐狸",
+        "fish_type": 8,
+        "fish_attribute": 1,
+        "rtp": 10000,
+        "kill_multiple": 181,
+        "kill_award": [
+            {
+                "100": 35680
+            },
+            {
+                "150": 25000
+            },
+            {
+                "200": 9000
+            },
+            {
+                "250": 8000
+            },
+            {
+                "300": 7000
+            },
+            {
+                "350": 6000
+            },
+            {
+                "400": 5000
+            }
+        ],
+        "fish_grow": 0,
+        "speed": 80,
+        "fish_clear": 1,
+        "kill_fish": [],
+        "refresh_count": [
+            {
+                "1": 20
+            }
+        ],
+        "max_count": 1,
+        "path_id": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16
+        ]
+    },
+    {
+        "fish_id": 23,
+        "fish_name": "钻头火箭",
+        "fish_type": 8,
+        "fish_attribute": 1,
+        "rtp": 10000,
+        "kill_multiple": 120,
+        "kill_award": [
+            {
+                "50": 4281
+            },
+            {
+                "70": 10000
+            },
+            {
+                "90": 10000
+            },
+            {
+                "110": 10000
+            },
+            {
+                "130": 10000
+            },
+            {
+                "150": 10000
+            },
+            {
+                "200": 10000
+            }
+        ],
+        "fish_grow": 0,
+        "speed": 83,
+        "fish_clear": 1,
+        "kill_fish": [],
+        "refresh_count": [
+            {
+                "1": 20
+            }
+        ],
+        "max_count": 1,
+        "path_id": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16
+        ]
+    },
+    {
+        "fish_id": 24,
+        "fish_name": "幸运龙珠",
+        "fish_type": 6,
+        "fish_attribute": 1,
+        "rtp": 10000,
+        "kill_multiple": 189,
+        "kill_award": [
+            {
+                "60": 1620
+            },
+            {
+                "80": 1500
+            },
+            {
+                "100": 1500
+            },
+            {
+                "150": 1000
+            },
+            {
+                "200": 1090
+            },
+            {
+                "250": 1000
+            },
+            {
+                "300": 1000
+            },
+            {
+                "500": 500
+            },
+            {
+                "600": 500
+            }
+        ],
+        "fish_grow": 0,
+        "speed": 100,
+        "fish_clear": 1,
+        "kill_fish": [],
+        "refresh_count": [
+            {
+                "1": 20
+            }
+        ],
+        "max_count": 1,
+        "path_id": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16
+        ]
+    },
+    {
+        "fish_id": 25,
+        "fish_name": "宝藏蟹",
+        "fish_type": 6,
+        "fish_attribute": 1,
+        "rtp": 10000,
+        "kill_multiple": 135,
+        "kill_award": [
+            {
+                "20": 50
+            },
+            {
+                "100": 200
+            },
+            {
+                "40": 50
+            },
+            {
+                "200": 200
+            },
+            {
+                "60": 50
+            },
+            {
+                "300": 50
+            }
+        ],
+        "fish_grow": 0,
+        "speed": 70,
+        "fish_clear": 1,
+        "kill_fish": [],
+        "refresh_count": [
+            {
+                "1": 20
+            }
+        ],
+        "max_count": 1,
+        "path_id": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16
+        ]
+    },
+    {
+        "fish_id": 26,
+        "fish_name": "冰冻鱼",
+        "fish_type": 3,
+        "fish_attribute": 0,
+        "rtp": 10000,
+        "kill_multiple": 50,
+        "kill_award": 50,
+        "fish_grow": 0,
+        "speed": 85,
+        "fish_clear": 1,
+        "kill_fish": [],
+        "refresh_count": [
+            {
+                "1": 20
+            }
+        ],
+        "max_count": 1,
+        "path_id": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16
+        ]
+    },
+    {
+        "fish_id": 27,
+        "fish_name": "闪电鱼",
+        "fish_type": 4,
+        "fish_attribute": 0,
+        "rtp": 10000,
+        "kill_multiple": 30,
+        "kill_award": 30,
+        "fish_grow": 0,
+        "speed": 95,
+        "fish_clear": 1,
+        "kill_fish": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+        ],
+        "refresh_count": [
+            {
+                "1": 20
+            }
+        ],
+        "max_count": 1,
+        "path_id": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16
+        ]
+    },
+    {
+        "fish_id": 28,
+        "fish_name": "小黑洞鱼",
+        "fish_type": 6,
+        "fish_attribute": 0,
+        "rtp": 10000,
+        "kill_multiple": 29,
+        "kill_award": [
+            {
+                "15": 55
+            },
+            {
+                "20": 70
+            },
+            {
+                "25": 100
+            },
+            {
+                "30": 100
+            },
+            {
+                "35": 70
+            },
+            {
+                "40": 50
+            },
+            {
+                "45": 30
+            },
+            {
+                "50": 12
+            }
+        ],
+        "fish_grow": 0,
+        "speed": 120,
+        "fish_clear": 1,
+        "kill_fish": [],
+        "refresh_count": [
+            {
+                "1": 20
+            }
+        ],
+        "max_count": 1,
+        "path_id": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16
+        ]
+    },
+    {
+        "fish_id": 29,
+        "fish_name": "黑洞鱼",
+        "fish_type": 6,
+        "fish_attribute": 0,
+        "rtp": 10000,
+        "kill_multiple": 100,
+        "kill_award": [
+            {
+                "50": 1000
+            },
+            {
+                "60": 1000
+            },
+            {
+                "70": 1000
+            },
+            {
+                "80": 1000
+            },
+            {
+                "90": 1000
+            },
+            {
+                "100": 1000
+            },
+            {
+                "150": 1000
+            },
+            {
+                "200": 1000
+            }
+        ],
+        "fish_grow": 0,
+        "speed": 100,
+        "fish_clear": 1,
+        "kill_fish": [],
+        "refresh_count": [
+            {
+                "1": 20
+            }
+        ],
+        "max_count": 1,
+        "path_id": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16
+        ]
+    },
+    {
+        "fish_id": 30,
+        "fish_name": "炸弹鱼",
+        "fish_type": 6,
+        "fish_attribute": 1,
+        "rtp": 10000,
+        "kill_multiple": 400,
+        "kill_award": [
+            {
+                "200": 60
+            },
+            {
+                "250": 60
+            },
+            {
+                "300": 100
+            },
+            {
+                "350": 100
+            },
+            {
+                "400": 80
+            },
+            {
+                "500": 60
+            },
+            {
+                "700": 50
+            },
+            {
+                "900": 30
+            }
+        ],
+        "fish_grow": 0,
+        "speed": 90,
+        "fish_clear": 1,
+        "kill_fish": [],
+        "refresh_count": [
+            {
+                "1": 20
+            }
+        ],
+        "max_count": 1,
+        "path_id": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16
+        ]
+    },
+    {
+        "fish_id": 31,
+        "fish_name": "宝藏船",
+        "fish_type": 7,
+        "fish_attribute": 1,
+        "rtp": 10000,
+        "kill_multiple": 15,
+        "kill_award": [
+            {
+                "10": 1181
+            },
+            {
+                "15": 1000
+            },
+            {
+                "20": 300
+            },
+            {
+                "25": 200
+            },
+            {
+                "30": 100
+            },
+            {
+                "50": 10
+            },
+            {
+                "100": 1
+            },
+            {
+                "200": 1
+            },
+            {
+                "300": 1
+            }
+        ],
+        "fish_grow": 0,
+        "speed": 55,
+        "fish_clear": 1,
+        "kill_fish": [],
+        "refresh_count": [
+            {
+                "1": 20
+            }
+        ],
+        "max_count": 1,
+        "path_id": [
+            1,
+            2,
+            4,
+            5,
+            8,
+            9,
+            13,
+            14
+        ]
+    },
+    {
+        "fish_id": 32,
+        "fish_name": "齐天大虾",
+        "fish_type": 7,
+        "fish_attribute": 1,
+        "rtp": 10000,
+        "kill_multiple": 42,
+        "kill_award": [
+            {
+                "25": 1498
+            },
+            {
+                "30": 1000
+            },
+            {
+                "35": 260
+            },
+            {
+                "40": 100
+            },
+            {
+                "45": 100
+            },
+            {
+                "50": 60
+            },
+            {
+                "100": 50
+            },
+            {
+                "200": 50
+            },
+            {
+                "300": 10
+            },
+            {
+                "400": 10
+            },
+            {
+                "500": 10
+            },
+            {
+                "800": 10
+            },
+            {
+                "1000": 10
+            }
+        ],
+        "fish_grow": 0,
+        "speed": 45,
+        "fish_clear": 1,
+        "kill_fish": [],
+        "refresh_count": [
+            {
+                "1": 20
+            }
+        ],
+        "max_count": 1,
+        "path_id": [
+            43,
+            44
+        ]
+    },
+    {
+        "fish_id": 33,
+        "fish_name": "摇钱树",
+        "fish_type": 6,
+        "fish_attribute": 1,
+        "rtp": 10000,
+        "kill_multiple": 244,
+        "kill_award": [
+            {
+                "100": 4721
+            },
+            {
+                "150": 8000
+            },
+            {
+                "200": 10000
+            },
+            {
+                "250": 10000
+            },
+            {
+                "300": 8000
+            },
+            {
+                "350": 5000
+            },
+            {
+                "400": 1000
+            },
+            {
+                "500": 1000
+            },
+            {
+                "666": 1000
+            }
+        ],
+        "fish_grow": 0,
+        "speed": 54,
+        "fish_clear": 1,
+        "kill_fish": [],
+        "refresh_count": [
+            {
+                "1": 20
+            }
+        ],
+        "max_count": 1,
+        "path_id": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16
+        ]
+    },
+    {
+        "fish_id": 34,
+        "fish_name": "财神",
+        "fish_type": 6,
+        "fish_attribute": 1,
+        "rtp": 10000,
+        "kill_multiple": 356,
+        "kill_award": [
+            {
+                "200": 20000
+            },
+            {
+                "300": 35240
+            },
+            {
+                "350": 30000
+            },
+            {
+                "400": 20000
+            },
+            {
+                "450": 10000
+            },
+            {
+                "500": 8000
+            },
+            {
+                "550": 5000
+            },
+            {
+                "600": 1000
+            },
+            {
+                "800": 1000
+            },
+            {
+                "1000": 1000
+            }
+        ],
+        "fish_grow": 0,
+        "speed": 35,
+        "fish_clear": 1,
+        "kill_fish": [],
+        "refresh_count": [
+            {
+                "1": 20
+            }
+        ],
+        "max_count": 1,
+        "path_id": [
+            43,
+            44
+        ]
+    }
+]

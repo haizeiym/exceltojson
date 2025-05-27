@@ -1,0 +1,146 @@
+[
+    {
+        "fish_id": 200,
+        "res_id": 200
+    },
+    {
+        "fish_id": 201,
+        "res_id": 201
+    },
+    {
+        "fish_id": 202,
+        "res_id": 202
+    },
+    {
+        "fish_id": 1,
+        "res_id": 10001
+    },
+    {
+        "fish_id": 2,
+        "res_id": 10002
+    },
+    {
+        "fish_id": 3,
+        "res_id": 10003
+    },
+    {
+        "fish_id": 4,
+        "res_id": 10004
+    },
+    {
+        "fish_id": 5,
+        "res_id": 10005
+    },
+    {
+        "fish_id": 6,
+        "res_id": 10007
+    },
+    {
+        "fish_id": 7,
+        "res_id": 10008
+    },
+    {
+        "fish_id": 8,
+        "res_id": 10009
+    },
+    {
+        "fish_id": 9,
+        "res_id": 10010
+    },
+    {
+        "fish_id": 10,
+        "res_id": 10011
+    },
+    {
+        "fish_id": 11,
+        "res_id": 20001
+    },
+    {
+        "fish_id": 12,
+        "res_id": 10006
+    },
+    {
+        "fish_id": 13,
+        "res_id": 20003
+    },
+    {
+        "fish_id": 14,
+        "res_id": 20002
+    },
+    {
+        "fish_id": 15,
+        "res_id": 30002
+    },
+    {
+        "fish_id": 16,
+        "res_id": 20005
+    },
+    {
+        "fish_id": 17,
+        "res_id": 20007
+    },
+    {
+        "fish_id": 18,
+        "res_id": 40003
+    },
+    {
+        "fish_id": 19,
+        "res_id": 30003
+    },
+    {
+        "fish_id": 20,
+        "res_id": 40001
+    },
+    {
+        "fish_id": 21,
+        "res_id": 40006
+    },
+    {
+        "fish_id": 22,
+        "res_id": 200001
+    },
+    {
+        "fish_id": 23,
+        "res_id": 30001
+    },
+    {
+        "fish_id": 24,
+        "res_id": 70001
+    },
+    {
+        "fish_id": 25,
+        "res_id": 30007
+    },
+    {
+        "fish_id": 26,
+        "res_id": 30006
+    },
+    {
+        "fish_id": 27,
+        "res_id": 40002
+    },
+    {
+        "fish_id": 28,
+        "res_id": 30005
+    },
+    {
+        "fish_id": 29,
+        "res_id": 40004
+    },
+    {
+        "fish_id": 30,
+        "res_id": 30004
+    },
+    {
+        "fish_id": 31,
+        "res_id": 30008
+    },
+    {
+        "fish_id": 32,
+        "res_id": 200002
+    },
+    {
+        "fish_id": 34,
+        "res_id": 30009
+    }
+]

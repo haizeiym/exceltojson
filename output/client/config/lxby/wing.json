@@ -1,0 +1,44 @@
+[
+    {
+        "wing_id": 1,
+        "speed_up": 5,
+        "frame": 1,
+        "frequency": 3
+    },
+    {
+        "wing_id": 2,
+        "speed_up": 10,
+        "frame": 2,
+        "frequency": 3
+    },
+    {
+        "wing_id": 3,
+        "speed_up": 15,
+        "frame": 3,
+        "frequency": 3
+    },
+    {
+        "wing_id": 4,
+        "speed_up": 20,
+        "frame": 4,
+        "frequency": 3
+    },
+    {
+        "wing_id": 5,
+        "speed_up": 25,
+        "frame": 5,
+        "frequency": 3
+    },
+    {
+        "wing_id": 6,
+        "speed_up": 30,
+        "frame": 6,
+        "frequency": 3
+    },
+    {
+        "wing_id": 7,
+        "speed_up": 35,
+        "frame": 7,
+        "frequency": 3
+    }
+]
