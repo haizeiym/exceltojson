@@ -5,11 +5,6 @@
     "room_id": 10101,
     "room_name": "1分场_USD",
     "exchange_rate": 1,
-    "cell_score": 1,
-    "enter_score": [
-      0,
-      0
-    ],
     "cannon_multiple": [
       1,
       2,
@@ -32,16 +27,6 @@
       40,
       45,
       50
-    ],
-    "scene_time": [
-      150,
-      240
-    ],
-    "max_fish_count": 100,
-    "background_id": [
-      1,
-      2,
-      3
     ],
     "kickout_time": 120
   },
@@ -51,11 +36,6 @@
     "room_id": 10102,
     "room_name": "1元场_USD",
     "exchange_rate": 1,
-    "cell_score": 10,
-    "enter_score": [
-      50000,
-      0
-    ],
     "cannon_multiple": [
       50,
       70,
@@ -79,17 +59,6 @@
       4000,
       4500,
       5000
-    ],
-    "scene_time": [
-      150,
-      240
-    ],
-    "max_fish_count": 100,
-    "background_id": [
-      1,
-      2,
-      3,
-      4
     ],
     "kickout_time": 120
   },
@@ -99,11 +68,6 @@
     "room_id": 10101,
     "room_name": "1分场_VNUSD",
     "exchange_rate": 1,
-    "cell_score": 1,
-    "enter_score": [
-      0,
-      0
-    ],
     "cannon_multiple": [
       1,
       2,
@@ -126,16 +90,6 @@
       40,
       45,
       50
-    ],
-    "scene_time": [
-      150,
-      240
-    ],
-    "max_fish_count": 100,
-    "background_id": [
-      1,
-      2,
-      3
     ],
     "kickout_time": 120
   },
@@ -145,11 +99,6 @@
     "room_id": 10102,
     "room_name": "1元场_VNUSD",
     "exchange_rate": 1,
-    "cell_score": 100,
-    "enter_score": [
-      50000,
-      0
-    ],
     "cannon_multiple": [
       50,
       70,
@@ -174,17 +123,6 @@
       4500,
       5000
     ],
-    "scene_time": [
-      150,
-      240
-    ],
-    "max_fish_count": 100,
-    "background_id": [
-      1,
-      2,
-      3,
-      4
-    ],
     "kickout_time": 120
   },
   {
@@ -193,11 +131,6 @@
     "room_id": 10101,
     "room_name": "1分场_VND",
     "exchange_rate": 25000,
-    "cell_score": 1,
-    "enter_score": [
-      0,
-      0
-    ],
     "cannon_multiple": [
       1,
       2,
@@ -221,16 +154,6 @@
       45,
       50
     ],
-    "scene_time": [
-      150,
-      240
-    ],
-    "max_fish_count": 100,
-    "background_id": [
-      1,
-      2,
-      3
-    ],
     "kickout_time": 120
   },
   {
@@ -239,11 +162,6 @@
     "room_id": 10102,
     "room_name": "1元场_VND",
     "exchange_rate": 25000,
-    "cell_score": 100,
-    "enter_score": [
-      50000,
-      0
-    ],
     "cannon_multiple": [
       50,
       70,
@@ -267,17 +185,6 @@
       4000,
       4500,
       5000
-    ],
-    "scene_time": [
-      150,
-      240
-    ],
-    "max_fish_count": 100,
-    "background_id": [
-      1,
-      2,
-      3,
-      4
     ],
     "kickout_time": 120
   }
