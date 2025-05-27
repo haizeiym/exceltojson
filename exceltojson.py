@@ -13,6 +13,10 @@ def process_value(value):
     return value
 
 def excel_tojson_side(df, export_columns, dir_name, file_name, side):
+    # 如果只有id字段则不导出
+    if len(export_columns) == 1 and export_columns[0][1] == "id":
+        print(f"仅有id字段，跳过导出: {file_name} ({side})")
+        return
     data = []
     for row in range(4, len(df)):
         obj = {}
@@ -22,6 +26,9 @@ def excel_tojson_side(df, export_columns, dir_name, file_name, side):
                 obj[key] = value
         if obj:
             data.append(obj)
+    if not data or (len(data[0]) == 1 and "id" in data[0]):
+        print(f"仅有id字段数据，跳过导出: {file_name} ({side})")
+        return
     export_dir = os.path.join(dir_name, side)
     os.makedirs(export_dir, exist_ok=True)
     json_file = os.path.join(export_dir, f"{file_name}.json")
