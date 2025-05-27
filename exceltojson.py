@@ -52,6 +52,9 @@ def excel_to_json(excel_file: str):
         client_columns = []
         server_columns = []
         for col in range(df.shape[1]):
+            # 跳过第二行以#开头的列
+            if str(df.iloc[1, col]).strip().startswith('#'):
+                continue
             flag = str(df.iloc[2, col]).strip().lower()
             key = str(df.iloc[3, col]).strip()
             if key != '' and not key.startswith('#'):
