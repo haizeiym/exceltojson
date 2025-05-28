@@ -8,9 +8,14 @@ def process_value(value):
         return None
     if isinstance(value, str):
         try:
-            return eval(value)
+            v = eval(value)
+            if isinstance(v, set):
+                return list(v)
+            return v
         except:
             return value
+    if isinstance(value, set):
+        return list(value)
     return value
 
 def excel_tojson_side(df, export_columns, dir_name, file_name, side, output_root, indent_val=2):
