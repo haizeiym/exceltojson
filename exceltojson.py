@@ -13,7 +13,7 @@ def process_value(value):
             return value
     return value
 
-def excel_tojson_side(df, export_columns, dir_name, file_name, side, output_root):
+def excel_tojson_side(df, export_columns, dir_name, file_name, side, output_root, indent_val=2):
     # 如果只有id字段则不导出
     if len(export_columns) == 1 and export_columns[0][1] == "id":
         print(f"仅有id字段，跳过导出: {file_name} ({side})")
@@ -34,7 +34,7 @@ def excel_tojson_side(df, export_columns, dir_name, file_name, side, output_root
     os.makedirs(export_dir, exist_ok=True)
     json_file = os.path.join(export_dir, f"{file_name}.json")
     with open(json_file, 'w', encoding='utf-8') as f:
-        json.dump(data, f, ensure_ascii=False, indent=2)
+        json.dump(data, f, ensure_ascii=False, indent=indent_val)
     print(f"导出: {json_file}")
 
 
@@ -45,11 +45,19 @@ def excel_to_json(excel_file: str, output_root: str):
         # 下面的内容保持不变，只需将 df 换成当前 sheet 的 df
         export_file_col = None
         export_dir_col = None
+        indent_val = 2
         for idx, v in enumerate(df.iloc[0]):
             if str(v).strip() == '导出文件头':
                 export_file_col = idx
             if str(v).strip() == '导出目录':
                 export_dir_col = idx
+            if str(v).strip() == '缩进':
+                # 尝试获取右侧的值
+                try:
+                    val = df.iloc[0, idx+1]
+                    indent_val = int(val) if str(val).strip().isdigit() else 2
+                except Exception:
+                    indent_val = 2
         if export_file_col is None or export_dir_col is None:
             print(f'未找到导出文件头或导出目录列 in sheet {sheet_name}')
             continue
@@ -72,9 +80,9 @@ def excel_to_json(excel_file: str, output_root: str):
                     server_columns.append((col, key))
                     
         if client_columns:
-            excel_tojson_side(df, client_columns, dir_name, file_name, "client", output_root)
+            excel_tojson_side(df, client_columns, dir_name, file_name, "client", output_root, indent_val)
         if server_columns:
-            excel_tojson_side(df, server_columns, dir_name, file_name, "server", output_root)
+            excel_tojson_side(df, server_columns, dir_name, file_name, "server", output_root, indent_val)
 
 if __name__ == "__main__":
     folder = sys.argv[1] if len(sys.argv) > 1 else '.'
