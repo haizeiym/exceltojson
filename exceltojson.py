@@ -39,10 +39,12 @@ def excel_tojson_side(df, export_columns, dir_name, file_name, side, output_root
 
 
 def excel_to_json(excel_file: str, output_root: str):
-    # 读取所有sheet
     all_sheets = pd.read_excel(excel_file, header=None, sheet_name=None, engine="openpyxl")
     for sheet_name, df in all_sheets.items():
-        # 下面的内容保持不变，只需将 df 换成当前 sheet 的 df
+        # 跳过sheet名或首行有#的sheet
+        if '#' in str(sheet_name) or any('#' in str(cell) for cell in df.iloc[0]):
+            print(f"跳过含#的sheet: {sheet_name}")
+            continue
         export_file_col = None
         export_dir_col = None
         indent_val = 2
@@ -52,7 +54,6 @@ def excel_to_json(excel_file: str, output_root: str):
             if str(v).strip() == '导出目录':
                 export_dir_col = idx
             if str(v).strip() == '缩进':
-                # 尝试获取右侧的值
                 try:
                     val = df.iloc[0, idx+1]
                     indent_val = int(val) if str(val).strip().isdigit() else 2
@@ -68,7 +69,6 @@ def excel_to_json(excel_file: str, output_root: str):
         client_columns = []
         server_columns = []
         for col in range(df.shape[1]):
-            # 跳过第二行以#开头的列
             if str(df.iloc[1, col]).strip().startswith('#'):
                 continue
             flag = str(df.iloc[2, col]).strip().lower()
