@@ -88,7 +88,7 @@ if __name__ == "__main__":
     folder = sys.argv[1] if len(sys.argv) > 1 else '.'
     output_root = os.path.abspath(folder)
     for fname in os.listdir(folder):
-        if fname.endswith('.xlsx'):
+        if fname.endswith('.xlsx') and not fname.startswith('~') and not fname.startswith('.~'):
             fpath = os.path.join(folder, fname)
             print(f"处理文件: {fpath}")
             excel_to_json(fpath, output_root)
