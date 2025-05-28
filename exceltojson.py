@@ -40,7 +40,7 @@ def excel_tojson_side(df, export_columns, dir_name, file_name, side, output_root
 
 def excel_to_json(excel_file: str, output_root: str):
     # 读取所有sheet
-    all_sheets = pd.read_excel(excel_file, header=None, sheet_name=None)
+    all_sheets = pd.read_excel(excel_file, header=None, sheet_name=None, engine="openpyxl")
     for sheet_name, df in all_sheets.items():
         # 下面的内容保持不变，只需将 df 换成当前 sheet 的 df
         export_file_col = None
