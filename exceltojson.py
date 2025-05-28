@@ -61,7 +61,7 @@ def excel_to_json(excel_file: str, output_root: str):
             if str(v).strip() == '缩进':
                 try:
                     val = df.iloc[0, idx+1]
-                    indent_val = int(val) if str(val).strip().isdigit() else 2
+                    indent_val = int(float(str(val).strip()))
                 except Exception:
                     indent_val = 2
         if export_file_col is None or export_dir_col is None:
