@@ -1,6 +1,7 @@
 import pandas as pd
 import json
 import os
+import sys
 
 def process_value(value):
     if pd.isna(value):
@@ -76,5 +77,10 @@ def excel_to_json(excel_file: str):
             excel_tojson_side(df, server_columns, dir_name, file_name, "server")
 
 if __name__ == "__main__":
-    excel_file = "./乐享捕鱼.xlsx"
-    excel_to_json(excel_file)
+    # 获取命令行参数
+    folder = sys.argv[1] if len(sys.argv) > 1 else '.'
+    for fname in os.listdir(folder):
+        if fname.endswith('.xlsx'):
+            fpath = os.path.join(folder, fname)
+            print(f"处理文件: {fpath}")
+            excel_to_json(fpath)
