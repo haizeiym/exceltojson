@@ -13,7 +13,7 @@ def process_value(value):
             return value
     return value
 
-def excel_tojson_side(df, export_columns, dir_name, file_name, side):
+def excel_tojson_side(df, export_columns, dir_name, file_name, side, output_root):
     # 如果只有id字段则不导出
     if len(export_columns) == 1 and export_columns[0][1] == "id":
         print(f"仅有id字段，跳过导出: {file_name} ({side})")
@@ -30,7 +30,7 @@ def excel_tojson_side(df, export_columns, dir_name, file_name, side):
     if not data or (len(data[0]) == 1 and "id" in data[0]):
         print(f"仅有id字段数据，跳过导出: {file_name} ({side})")
         return
-    export_dir = os.path.join(dir_name, side)
+    export_dir = os.path.join(output_root, "output", dir_name, side)
     os.makedirs(export_dir, exist_ok=True)
     json_file = os.path.join(export_dir, f"{file_name}.json")
     with open(json_file, 'w', encoding='utf-8') as f:
@@ -38,7 +38,7 @@ def excel_tojson_side(df, export_columns, dir_name, file_name, side):
     print(f"导出: {json_file}")
 
 
-def excel_to_json(excel_file: str):
+def excel_to_json(excel_file: str, output_root: str):
     # 读取所有sheet
     all_sheets = pd.read_excel(excel_file, header=None, sheet_name=None)
     for sheet_name, df in all_sheets.items():
@@ -72,15 +72,15 @@ def excel_to_json(excel_file: str):
                     server_columns.append((col, key))
                     
         if client_columns:
-            excel_tojson_side(df, client_columns, dir_name, file_name, "client")
+            excel_tojson_side(df, client_columns, dir_name, file_name, "client", output_root)
         if server_columns:
-            excel_tojson_side(df, server_columns, dir_name, file_name, "server")
+            excel_tojson_side(df, server_columns, dir_name, file_name, "server", output_root)
 
 if __name__ == "__main__":
-    # 获取命令行参数
     folder = sys.argv[1] if len(sys.argv) > 1 else '.'
+    output_root = os.path.abspath(folder)
     for fname in os.listdir(folder):
         if fname.endswith('.xlsx'):
             fpath = os.path.join(folder, fname)
             print(f"处理文件: {fpath}")
-            excel_to_json(fpath)
+            excel_to_json(fpath, output_root)
