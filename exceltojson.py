@@ -35,12 +35,36 @@ def excel_tojson_side(df, export_columns, dir_name, file_name, side, output_root
     if not data or (len(data[0]) == 1 and "id" in data[0]):
         print(f"仅有id字段数据，跳过导出: {file_name} ({side})")
         return
-    export_dir = os.path.join(output_root, "output", dir_name, side)
-    os.makedirs(export_dir, exist_ok=True)
-    json_file = os.path.join(export_dir, f"{file_name}.json")
-    with open(json_file, 'w', encoding='utf-8') as f:
-        json.dump(data, f, ensure_ascii=False, indent=indent_val)
-    print(f"导出: {json_file}")
+
+    # 检查是否有game_id字段
+    has_game_id = any(key == "game_id" for _, key in export_columns)
+    
+    # 按game_id分组数据
+    if has_game_id:
+        grouped_data = {}
+        for item in data:
+            game_id = item.get("game_id")
+            if game_id is not None:
+                if game_id not in grouped_data:
+                    grouped_data[game_id] = []
+                grouped_data[game_id].append(item)
+        
+        # 导出每个game_id的数据
+        for game_id, game_data in grouped_data.items():
+            export_dir = os.path.join(output_root, "output", str(game_id), dir_name, side)
+            os.makedirs(export_dir, exist_ok=True)
+            json_file = os.path.join(export_dir, f"{file_name}.json")
+            with open(json_file, 'w', encoding='utf-8') as f:
+                json.dump(game_data, f, ensure_ascii=False, indent=indent_val)
+            print(f"导出: {json_file}")
+    else:
+        # 如果没有game_id，使用原来的导出路径
+        export_dir = os.path.join(output_root, "output", dir_name, side)
+        os.makedirs(export_dir, exist_ok=True)
+        json_file = os.path.join(export_dir, f"{file_name}.json")
+        with open(json_file, 'w', encoding='utf-8') as f:
+            json.dump(data, f, ensure_ascii=False, indent=indent_val)
+        print(f"导出: {json_file}")
 
 
 def excel_to_json(excel_file: str, output_root: str):
