@@ -9,14 +9,30 @@ def process_value(value):
     if isinstance(value, str):
         try:
             v = eval(value)
-            if isinstance(v, set):
-                return list(v)
-            return v
+            # 检查eval返回的值是否为可JSON序列化的类型
+            if isinstance(v, (int, float, str, bool, list, dict)):
+                if isinstance(v, set):
+                    return list(v)
+                return v
+            elif isinstance(v, type):
+                # 如果是type对象，返回类型名称的字符串
+                return str(v.__name__)
+            else:
+                # 其他不可序列化的类型，转换为字符串
+                return str(v)
         except:
             return value
     if isinstance(value, set):
         return list(value)
-    return value
+    # 检查其他可能的不可序列化类型
+    if isinstance(value, type):
+        return str(value.__name__)
+    # 确保返回的值是JSON可序列化的
+    try:
+        json.dumps(value)
+        return value
+    except (TypeError, ValueError):
+        return str(value)
 
 def excel_tojson_side(df, export_columns, dir_name, file_name, side, output_root, indent_val=2):
     # 如果只有id字段则不导出
