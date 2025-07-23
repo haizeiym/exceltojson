@@ -39,17 +39,38 @@ def excel_tojson_side(df, export_columns, dir_name, file_name, side, output_root
     if len(export_columns) == 1 and export_columns[0][1] == "id":
         print(f"仅有id字段，跳过导出: {file_name} ({side})")
         return
-    data = []
-    for row in range(4, len(df)):
-        obj = {}
-        for col, key in export_columns:
-            value = process_value(df.iloc[row, col])
-            if value is not None:
-                obj[key] = value
-        if obj:
-            data.append(obj)
-    if not data or (len(data[0]) == 1 and "id" in data[0]):
-        print(f"仅有id字段数据，跳过导出: {file_name} ({side})")
+    
+    # 检查是否有id字段
+    has_id_field = any(key == "id" for _, key in export_columns)
+    
+    if has_id_field:
+        # 有id字段时使用对象结构
+        data = {}
+        for row in range(4, len(df)):
+            obj = {}
+            id_value = None
+            for col, key in export_columns:
+                value = process_value(df.iloc[row, col])
+                if value is not None:
+                    obj[key] = value
+                    if key == "id":
+                        id_value = value
+            if obj and id_value is not None:
+                data[str(id_value)] = obj
+    else:
+        # 没有id字段时也使用对象结构，用行号作为key
+        data = {}
+        for row in range(4, len(df)):
+            obj = {}
+            for col, key in export_columns:
+                value = process_value(df.iloc[row, col])
+                if value is not None:
+                    obj[key] = value
+            if obj:
+                data[str(row - 3)] = obj  # 使用行号作为key，从1开始
+    
+    if not data:
+        print(f"没有有效数据，跳过导出: {file_name} ({side})")
         return
 
     # 检查是否有game_id字段
@@ -58,12 +79,13 @@ def excel_tojson_side(df, export_columns, dir_name, file_name, side, output_root
     # 按game_id分组数据
     if has_game_id:
         grouped_data = {}
-        for item in data:
+        # 所有数据都是对象结构
+        for item_id, item in data.items():
             game_id = item.get("game_id")
             if game_id is not None:
                 if game_id not in grouped_data:
-                    grouped_data[game_id] = []
-                grouped_data[game_id].append(item)
+                    grouped_data[game_id] = {}
+                grouped_data[game_id][item_id] = item
         
         # 导出每个game_id的数据
         for game_id, game_data in grouped_data.items():
