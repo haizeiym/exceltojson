@@ -151,6 +151,7 @@ def excel_to_json(excel_file: str, output_root: str):
         if server_columns:
             excel_tojson_side(df, server_columns, dir_name, file_name, "server", output_root, indent_val)
 
+
 if __name__ == "__main__":
     folder = sys.argv[1] if len(sys.argv) > 1 else '.'
     output_root = os.path.abspath(folder)
