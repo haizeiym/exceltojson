@@ -7,8 +7,11 @@ def process_value(value):
     if pd.isna(value):
         return None
     if isinstance(value, str):
+        # 先处理常见的转义字符
+        processed_str = value.replace('\\n', '\n').replace('\\t', '\t').replace('\\r', '\r')
+        
         try:
-            v = eval(value)
+            v = eval(processed_str)
             # 检查eval返回的值是否为可JSON序列化的类型
             if isinstance(v, (int, float, str, bool, list, dict)):
                 if isinstance(v, set):
@@ -21,7 +24,8 @@ def process_value(value):
                 # 其他不可序列化的类型，转换为字符串
                 return str(v)
         except:
-            return value
+            # 如果eval失败，返回处理过转义字符的字符串
+            return processed_str
     if isinstance(value, set):
         return list(value)
     # 检查其他可能的不可序列化类型
